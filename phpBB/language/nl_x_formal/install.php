@@ -128,7 +128,7 @@ $lang = array_merge($lang, array(
 	'DB_ERR_QUERY_FIRST_TABLE'	=> 'Fout tijdens het verwerken van de <var>query_first</var>, %s (“%s”).',
 	'DB_ERR_SELECT'				=> 'Fout tijdens het uitvoeren van de <code>SELECT</code> query.',
 	'DB_HOST'					=> 'Database-server hostnaam of DSN',
-	'DB_HOST_EXPLAIN'           => 'DSN staat voor Data Source Name en is alleen relevant voor ODBC-installaties. Gebruik op PostgreSQL de localhost om verbinding te maken met een lokale server via de UNIX-domein socket en via 127.0.0.1 om verbinding te maken via TCP.',
+	'DB_HOST_EXPLAIN'           => 'DSN staat voor Data Source Name en is alleen relevant voor ODBC-installaties. Gebruik op PostgreSQL de localhost om verbinding te maken met de lokale server via de UNIX-domein socket en via 127.0.0.1 om verbinding te maken via TCP. Voor SQLite moet u het volledige pad invoeren van uw database-bestand.',
 	'DB_NAME'					=> 'Database-naam',
 	'DB_PASSWORD'				=> 'Database-wachtwoord',
 	'DB_PORT'					=> 'Database-serverpoort',
@@ -299,7 +299,7 @@ $lang = array_merge($lang, array(
 	'PHP_SETTINGS'						=> 'PHP-versie en instellingen',
 	'PHP_SETTINGS_EXPLAIN'				=> '<strong>Verplicht</strong> - U moet tenminste op PHP-versie 4.3.3 werken om phpBB te installeren. Als de <var>safe mode</var> wordt weergegeven onder uw PHP-installatie, dan is deze mode ingeschakeld. Dit zorgt voor beperkingen met betrekking tot beheer (op afstand) en soort gelijke functies.',
 	'PHP_URL_FOPEN_SUPPORT'				=> 'PHP-instelling <var>allow_url_fopen</var> is ingeschakeld',
-	'PHP_URL_FOPEN_SUPPORT_EXPLAIN'		=> '<strong>Optioneel</strong> - Deze instelling is optioneel, maar bepaalde phpBB functies zoals het gebruiken van een avatar van een andere site zal niet correct werken zonder deze functie.',
+	'PHP_URL_FOPEN_SUPPORT_EXPLAIN'		=> '<strong>Optioneel</strong> - Deze instelling is optioneel, maar bepaalde phpBB-functies zoals het gebruiken van een avatar van een andere site zal niet correct werken zonder deze functie.',
 	'PHP_VERSION_REQD'					=> 'PHP-versie >= 4.3.3',
 	'POST_ID'							=> 'Bericht-ID',
 	'PREFIX_FOUND'						=> 'Een scan van al uw tabellen heeft gecontroleerd dat u als tabel prefix <strong>%s</strong> gebruikt.',
@@ -367,7 +367,7 @@ $lang = array_merge($lang, array(
 
 // Updater
 $lang = array_merge($lang, array(
-	'ALL_FILES_UP_TO_DATE'		=> 'Alle bestanden zijn up-to-date tot de laatste phpBB-versie. U zult nu moeten <a href="../ucp.php?mode=login&amp;redirect=adm/index.php%3Fi=send_statistics%26mode=send_statistics">aanmelden op uw forum</a> om te controleren of alles correct werkt. Vergeet niet om de install-directory te verwijderen, hernoemen of te verplaatsen. Verstuur ons geupdate informatie over uw server en forumconfiguratie via de <a href="../ucp.php?mode=login&amp;redirect=adm/index.php%3Fi=send_statistics%26mode=send_statistics">statische informatie versturen</a> module in uw beheerderspaneel.',
+	'ALL_FILES_UP_TO_DATE'		=> 'Alle bestanden zijn bijgewerkt tot met de laatste phpBB-versie. U kunt zich nu <a href="../ucp.php?mode=login">aanmelden op uw forum</a> en zodat u kunt controleren of alles correct werkt. Vergeet wel niet om de install-directory te verwijderen, hernoemen of te verplaatsen! Stuur ons bijgewerkte informatie over uw server en forumconfiguratie vanuit de <a href="../ucp.php?mode=login&amp;redirect=adm/index.php%3Fi=send_statistics%26mode=send_statistics">statische informatie versturen</a> module in uw beheerderspaneel.',
 	'ARCHIVE_FILE'				=> 'Bronbestand binnen het archief',
 
 	'BACK'				=> 'Terug',

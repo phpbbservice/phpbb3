@@ -124,6 +124,7 @@ $lang = array_merge($lang, array(
 	'CANNOT_REMOVE_FOLDER'		=> 'Deze map kan niet worden verwijderd.',
 	'CHANGE_DEFAULT_GROUP'		=> 'Standaardgroep wijzigen',
 	'CHANGE_PASSWORD'			=> 'Wachtwoord wijzigen',
+	'CLICK_GOTO_FOLDER'			=> '%1$sGa naar uw “%3$s” map%2$s',
 	'CLICK_RETURN_FOLDER'		=> '%1$sTerug naar uw “%3$s” map%2$s',
 	'CONFIRMATION'				=> 'Registratie bevestigen',
 	'CONFIRM_CHANGES'			=> 'Wijzingen bevestigen',
@@ -199,6 +200,7 @@ $lang = array_merge($lang, array(
 	'FIELD_INVALID_CHARS_ALPHA_ONLY'	=> 'Het veld “%s” bevat ongeldige tekens, alleen alfanumerieke tekens zijn toegestaan.',
 	'FIELD_INVALID_CHARS_SPACERS_ONLY'	=> 'Het veld “%s” bevat ongeldige tekens, alleen alfanumerieke, spaties of -+_[] tekens zijn toegestaan.',
 	'FIELD_INVALID_DATE'				=> 'Het veld “%s” bevat een ongeldige datum.',
+	'FIELD_INVALID_VALUE'				=> 'Het veld “%s” bevat een ongeldige waarde.',
 
 	'FOE_MESSAGE'				=> 'Bericht van vijand',
 	'FOES_EXPLAIN'				=> 'Vijanden zijn gebruikers die standaard worden genegeerd. Berichten van deze gebruikers worden niet volledig weergegeven. Privéberichten van vijanden zijn nog steeds toegestaan. Vergeet niet dat u geen moderators of beheerders kunt negeren.',

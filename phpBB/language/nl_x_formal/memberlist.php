@@ -116,7 +116,6 @@ $lang = array_merge($lang, array(
 	'REMOVE_FOE'			=> 'Vijand verwijderen',
 	'REMOVE_FRIEND'			=> 'Vriend verwijderen',
 
-	'SEARCH_USER_POSTS'		=> 'Berichten van gebruiker zoeken',
 	'SELECT_MARKED'			=> 'Selecteer gemarkeerde',
 	'SELECT_SORT_METHOD'	=> 'Selecteer sorteermethode',
 	'SEND_AIM_MESSAGE'		=> 'AIM-bericht versturen',
