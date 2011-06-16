@@ -208,7 +208,7 @@ $lang = array_merge($lang, array(
 	'ACP_REGISTER_SETTINGS_EXPLAIN'		=> 'Hier kunt u registratie en profiel gerelateerde instellingen instellen.',
 
 	'ACC_ACTIVATION'				=> 'Accountactivatie',
-	'ACC_ACTIVATION_EXPLAIN'		=> 'Dit bepaald of gebruikers meteen toegang hebben tot het forum of dat een bevestiging eerst is vereist. U kan ook nieuwe registraties volledig uitschakelen. “Forum e-mails” moet ingeschakeld zijn om de gebruikers- of beheerdersactivatie te kunnen gebruiken.',
+	'ACC_ACTIVATION_EXPLAIN'		=> 'Dit bepaald of gebruikers meteen toegang hebben tot het forum of dat een bevestiging eerst is vereist. U kunt ook nieuwe registraties volledig uitschakelen. “Forum e-mails” moet ingeschakeld zijn om de gebruikers- of beheerdersactivatie te kunnen gebruiken.',
 	'NEW_MEMBER_POST_LIMIT'			=> 'Berichtlimiet voor nieuwe leden',
 	'NEW_MEMBER_POST_LIMIT_EXPLAIN'	=> 'Nieuwe leden worden geplaatst in de <em>Pas geregistreerde gebruikers</em>groep totdat ze dit aantal berichten hebben bereikt worden ze verwijderd uit deze groep. U kunt deze groep gebruiken om te voorkomen dat ze het privéberichten-systeem kunnen gebruiken of dat u eerst hun berichten wilt herzien voordat ze publiekelijk zichtbaar zijn voor iedereen. <strong>Een waarde van 0 schakelt deze functie uit.</strong>',
 	'NEW_MEMBER_GROUP_DEFAULT'		=> 'Pas geregistreerde gebruikersgroep als standaardgroep instellen',
@@ -394,7 +394,7 @@ $lang = array_merge($lang, array(
 	'LDAP_NO_EMAIL'					=> 'De opgegeven e-mail-attribuut bestaan niet.',
 	'LDAP_NO_IDENTITY'				=> 'Kon geen aanmeldingsidentiteit vinden voor %s.',
 	'LDAP_PASSWORD'					=> 'LDAP-wachtwoord',
-	'LDAP_PASSWORD_EXPLAIN'			=> 'Laat dit leeg als je gebruik maakt van gasttoegang, anders vult u het wachtwoord in voor de bovengenoemde gebruiker. Dit is nodig voor Aktieve Directory Servers.<br /><em><strong>Waarschuwing:</strong> Dit wachtwoord wordt opgeslagen als normale tekst in de database, en is zichtbaar voor iedereen die toegang heeft tot de database of wie deze configuratiepagina kan bekijken.</em>',
+	'LDAP_PASSWORD_EXPLAIN'			=> 'Laat dit leeg als u gebruik maakt van gasttoegang, anders vult u het wachtwoord in voor de bovengenoemde gebruiker. Dit is nodig voor Aktieve Directory Servers.<br /><em><strong>Waarschuwing:</strong> Dit wachtwoord wordt opgeslagen als normale tekst in de database, en is zichtbaar voor iedereen die toegang heeft tot de database of wie deze configuratiepagina kan bekijken.</em>',
 	'LDAP_PORT'						=> 'LDAP-serverpoort',
 	'LDAP_PORT_EXPLAIN'				=> 'Optioneel kunt u een poort opgeven die gebruikt moet worden om een verbinding te leggen naar de LDAP-server inplaats van de standaard poort 389.',
 	'LDAP_SERVER'					=> 'LDAP-servernaam',
@@ -467,7 +467,7 @@ $lang = array_merge($lang, array(
 	'IP_LOGIN_LIMIT_TIME'			=> 'Vervaltijd IP-adres aanmeldingspogingen',
 	'IP_LOGIN_LIMIT_TIME_EXPLAIN'	=> 'Aanmeldingspogingen verlopen na deze periode, in seconden.',
 	'IP_LOGIN_LIMIT_USE_FORWARDED'	=> 'Beperk aanmeldingspogingen via de <var>X_FORWARDED_FOR</var>-header',
-	'IP_LOGIN_LIMIT_USE_FORWARDED_EXPLAIN'	=> 'In plaatst van het beperken van aameldingspogingen per IP-adres worden ze beperkt via de <var>X_FORWARDED_FOR</var> waarden.<br /><em><strong>Waarschuwing:</strong> Schakel alleen dit in wanneer je een proxy-server beheert die de <var>X_FORWARDED_FOR</var> heeft ingesteld naar betrouwbare waarden.</em>',		
+	'IP_LOGIN_LIMIT_USE_FORWARDED_EXPLAIN'	=> 'In plaatst van het beperken van aameldingspogingen per IP-adres worden ze beperkt via de <var>X_FORWARDED_FOR</var> waarden.<br /><em><strong>Waarschuwing:</strong> Schakel alleen dit in wanneer u een proxy-server beheert die de <var>X_FORWARDED_FOR</var> heeft ingesteld naar betrouwbare waarden.</em>',		
 	'MAX_LOGIN_ATTEMPTS'			=> 'Maximaal aantal aanmeldingspogingen',
 	'MAX_LOGIN_ATTEMPTS_EXPLAIN'    => 'Het aantal aanmeldingspogingen die is toegestaan voor één account voordat de anti-spambot taak wordt geactiveerd. Voer een 0 in om te voorkomen dat de anti-spambot taak wordt geactiveerd voor het onderscheiden van gebruikersaccounts.',	
 	
@@ -502,7 +502,7 @@ $lang = array_merge($lang, array(
 	'EMAIL_FUNCTION_NAME'			=> 'E-mail-functienaam',
 	'EMAIL_FUNCTION_NAME_EXPLAIN'	=> 'De e-mail-functie die wordt gebruikt om e-mails te versturen via PHP.',
 	'EMAIL_PACKAGE_SIZE'			=> 'E-mail-pakketgrootte',
-	'EMAIL_PACKAGE_SIZE_EXPLAIN'	=> 'Dit is het aantal van maximale e-mails die kunnen worden verzonden in één pakket. Deze instelling is toegepast aan de interne berichtenwachtrij; stel deze waarde in op 0 als je problemen hebt met niet afgeleverde notificatie e-mails.',
+	'EMAIL_PACKAGE_SIZE_EXPLAIN'	=> 'Dit is het aantal van maximale e-mails die kunnen worden verzonden in één pakket. Deze instelling is toegepast aan de interne berichtenwachtrij; stel deze waarde in op 0 als u problemen hebt met niet afgeleverde notificatie e-mails.',
 	'EMAIL_SIG'						=> 'E-mailonderschrift',
 	'EMAIL_SIG_EXPLAIN'				=> 'Deze tekst zal onder alle e-mails worden toegevoegt die het forum verstuurt.',
 	'ENABLE_EMAIL'					=> 'Forum e-mails inschakelen',
@@ -528,7 +528,7 @@ $lang = array_merge($lang, array(
 
 // Jabber settings
 $lang = array_merge($lang, array(
-	'ACP_JABBER_SETTINGS_EXPLAIN'	=> 'Hier kunt u Jabber beheren en inschakelen voor het gebruik van instant messaging en forum-notificaties. Jabber is een open source protocol en daardoor voor iedereen beschikbaar. Sommige Jabber-servers inclusief gateways of transports wat ervoor zorgt dat u contact kunt leggen met gebruikers op andere netwerken. Niet alle servers bieden transport en wijzigingen in protocols wat er voor kan zorgen dan de transport niet goed werkt. Hou in de gaten dat je bestaande geregistreerde accountgegevens moet opgeven - phpBB zal gebruik maken van de gegevens die u hier opgeeft.',
+	'ACP_JABBER_SETTINGS_EXPLAIN'	=> 'Hier kunt u Jabber beheren en inschakelen voor het gebruik van instant messaging en forum-notificaties. Jabber is een open source protocol en daardoor voor iedereen beschikbaar. Sommige Jabber-servers inclusief gateways of transports wat ervoor zorgt dat u contact kunt leggen met gebruikers op andere netwerken. Niet alle servers bieden transport en wijzigingen in protocols wat er voor kan zorgen dan de transport niet goed werkt. Hou in de gaten dat u bestaande geregistreerde accountgegevens moet opgeven - phpBB zal gebruik maken van de gegevens die u hier opgeeft.',
 
 	'JAB_ENABLE'				=> 'Jabber toestaan',
 	'JAB_ENABLE_EXPLAIN'		=> 'Het gebruik van Jabber-berichten en -notificaties toestaan.',
