@@ -288,7 +288,7 @@ $lang = array_merge($lang, array(
 
 // Visual Confirmation Settings
 $lang = array_merge($lang, array(
-    'ACP_VC_SETTINGS_EXPLAIN'				=> 'Hier kunt u de plug-ins selecteren en configureren, welke zijn ontworpen om formulieren die automatisch worden verstuurt door spambots te blokeren. Deze plug-ins werken door de gebruiker uit te dagen om een <em>CAPTCHA</em> op te lossen, dat is een test die erg moeilijk op te lossen is voor computers.',
+    'ACP_VC_SETTINGS_EXPLAIN'				=> 'Hier kunt u de plug-ins selecteren en configureren, welke zijn ontworpen om formulieren die automatisch worden verstuurd door spambots te blokeren. Deze plug-ins werken door de gebruiker uit te dagen om een <em>CAPTCHA</em> op te lossen, dat is een test die erg moeilijk op te lossen is voor computers.',
 	'AVAILABLE_CAPTCHAS'					=> 'Beschikbare plug-ins',
 	'CAPTCHA_UNAVAILABLE'					=> 'De plug-in kan niet worden geselecteerd, omdat de benodigdheden om de plug-in te draaien niet aanwezig zijn.',
 	'CAPTCHA_GD'							=> 'GD-afbeelding',
@@ -489,7 +489,7 @@ $lang = array_merge($lang, array(
 
 // Email Settings
 $lang = array_merge($lang, array(
-	'ACP_EMAIL_SETTINGS_EXPLAIN'	=> 'Deze informatie wordt gebruikt wanneer het forum e-mails verstuurt naar uw gebruikers. Wees er zeker van het het e-mailadres dat u heeft opgegeven geldig is, alle geweigerde, berichten die niet bezorgt kunnen worden zullen worden verstuurd naar dat adres. Als uw host niet voorzien is van een oorspronkelijke (PHP gebaseerde) e-mailservice, kunt u direct berichten versturen door het gebruiken van SMTP. Dit vereist wel het adres van een juiste server (vraag uw provider mocht het nodig zijn). Als server authenticatie vereist (en alleen als het echt zo is) geeft u de juiste gebruikersnaam, wachtwoord en authenticatie-methode op.',
+	'ACP_EMAIL_SETTINGS_EXPLAIN'	=> 'Deze informatie wordt gebruikt wanneer het forum e-mails verstuurd naar uw gebruikers. Wees er zeker van het het e-mailadres dat u heeft opgegeven geldig is, alle geweigerde, berichten die niet bezorgt kunnen worden zullen worden verstuurd naar dat adres. Als uw host niet voorzien is van een oorspronkelijke (PHP gebaseerde) e-mailservice, kunt u direct berichten versturen door het gebruiken van SMTP. Dit vereist wel het adres van een juiste server (vraag uw provider mocht het nodig zijn). Als server authenticatie vereist (en alleen als het echt zo is) geeft u de juiste gebruikersnaam, wachtwoord en authenticatie-methode op.',
 
 	'ADMIN_EMAIL'					=> 'Antwoordadres',
 	'ADMIN_EMAIL_EXPLAIN'			=> 'Dit zal altijd worden gebruikt als het antwoordadres in alle e-mails, het technische e-mail-contactadres. Het zal altijd worden gebruikt als de <samp>Antwoord-pad</samp> and <samp>Afzender</samp>-adres in e-mails.',
@@ -504,7 +504,7 @@ $lang = array_merge($lang, array(
 	'EMAIL_PACKAGE_SIZE'			=> 'E-mail-pakketgrootte',
 	'EMAIL_PACKAGE_SIZE_EXPLAIN'	=> 'Dit is het aantal van maximale e-mails die kunnen worden verzonden in één pakket. Deze instelling is toegepast aan de interne berichtenwachtrij; stel deze waarde in op 0 als u problemen hebt met niet afgeleverde notificatie e-mails.',
 	'EMAIL_SIG'						=> 'E-mailonderschrift',
-	'EMAIL_SIG_EXPLAIN'				=> 'Deze tekst zal onder alle e-mails worden toegevoegt die het forum verstuurt.',
+	'EMAIL_SIG_EXPLAIN'				=> 'Deze tekst zal onder alle e-mails worden toegevoegt die het forum verstuurd.',
 	'ENABLE_EMAIL'					=> 'Forum e-mails inschakelen',
 	'ENABLE_EMAIL_EXPLAIN'			=> 'Als deze optie is uitgeschakeld kunnen er geen e-mails worden verzonden door het forum. <em>Bij de gebruiker en beheerder account-activatieinstellingen zal deze instelling verplicht ingeschakeld moeten zijn. Als u momenteel de “gebruiker” of “beheerder” activatie gebruikt in de activatieinstellingen, en u schakelt deze instelling uit, dan hebben nieuwe accounts geen activatie nodig.</em>',
 	'SMTP_AUTH_METHOD'				=> 'Authenticatie-methode voor SMTP',
@@ -523,7 +523,7 @@ $lang = array_merge($lang, array(
 	'SMTP_USERNAME'					=> 'SMTP-gebruikersnaam',
 	'SMTP_USERNAME_EXPLAIN'			=> 'Alleen een gebruikersnaam opgeven als uw SMTP-server er om vraagt.',
 	'USE_SMTP'						=> 'SMTP-server voor e-mail gebruiken',
-	'USE_SMTP_EXPLAIN'				=> 'Selecteer “Ja” als u wilt dat e-mails worden verstuurt via een naamserver, inplaats van de lokale mail-functie.',
+	'USE_SMTP_EXPLAIN'				=> 'Selecteer “Ja” als u wilt dat e-mails worden verzonden via een naamserver, inplaats van de lokale mail-functie.',
 ));
 
 // Jabber settings
