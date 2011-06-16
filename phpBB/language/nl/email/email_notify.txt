@@ -1,0 +1,17 @@
+Subject: "{SITENAME}" - E-mail een vriend
+
+Hallo {TO_USERNAME},
+
+Deze e-mail was verstuurt vanaf "{SITENAME}" door {FROM_USERNAME} die dacht dat je wel intresse zou hebben in het volgende onderwerp:
+
+{TOPIC_NAME}
+
+Je kan het vinden op:
+
+{U_TOPIC}
+
+Een bericht van {FROM_USERNAME} kan hieronder ook bijgevoegd zijn. Vergeet niet dat dit bericht niet is bekeken of goedgekeurd door de forumbeheerders. Als je wenst om een klacht in te dienen dat je deze e-mail hebt ontvangen neem dan contact op met de forumbeheerder op het volgende e-mailadres {BOARD_CONTACT}. Voeg de berichtheaders toe wanneer je contact op neemt met de forumbeheerders.
+
+----------
+
+{MESSAGE}
