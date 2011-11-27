@@ -54,7 +54,7 @@ $lang = array_merge($lang, array(
 
     'LOGIN_EXPLAIN_EGOSEARCH'		=> 'Het forum vereist dat u geregistreerd en aangemeld bent om uw eigen berichten te kunnen bekijken.',
 	'LOGIN_EXPLAIN_UNREADSEARCH'	=> 'Het forum vereist dat u geregistreerd en aangemeld bent om uw ongelezen berichten te kunnen bekijken.',
-	'LOGIN_EXPLAIN_NEWPOSTS'		=> 'Het forum vereist dat u geregistreerd en aangemeld bent om nieuwe berichten te kunnen bekijken sinds u laatste bezoek. ',
+	'LOGIN_EXPLAIN_NEWPOSTS'		=> 'Het forum vereist dat u geregistreerd en aangemeld bent om nieuwe berichten te kunnen bekijken sinds u laatste bezoek.',
 
 	'MAX_NUM_SEARCH_KEYWORDS_REFINE'	=> 'U heeft teveel woorden opgeven voor uw zoekopdracht. Voer niet meer dan %1$d woorden in.',
 
