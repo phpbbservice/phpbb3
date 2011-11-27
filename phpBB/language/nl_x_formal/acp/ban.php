@@ -70,6 +70,9 @@ $lang = array_merge($lang, array(
 
 	'PERMANENT'		=> 'Permanent',
 
+	'OPTIONS_BANNED'			=> 'Verbannen',
+	'OPTIONS_EXCLUDED'			=> 'Uitgesloten',
+
 	'UNTIL'						=> 'Tot',
 	'USER_BAN'					=> 'Eén of meer gebruikersnamen verbannen',
 	'USER_BAN_EXCLUDE_EXPLAIN'	=> 'Schakel dit in om het ingevoerde gebruikers uit te sluiten van alle huidige verbanningen.',
