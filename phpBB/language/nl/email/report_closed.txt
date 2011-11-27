@@ -1,0 +1,8 @@
+Subject: Melding gesloten - "{POST_SUBJECT}"
+
+Hallo {USERNAME},
+
+Je ontvangt deze notificatie omdat de melding die je hebt ingevuld over het bericht "{POST_SUBJECT}" in "{TOPIC_TITLE}" op "{SITENAME}" behandeld is door een moderator of een beheerder. De melding is daarna gesloten. Als je verdere vragen hebt, neem dan contact op met {CLOSER_NAME} via een privébericht.
+
+
+{EMAIL_SIG}

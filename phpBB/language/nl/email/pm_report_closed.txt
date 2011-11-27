@@ -1,0 +1,8 @@
+Subject: Melding gesloten - "{PM_SUBJECT}"
+
+Hallo {USERNAME},
+
+Je ontvangt deze notificatie omdat de melding die je hebt ingevuld over het privébericht "{PM_SUBJECT}" op "{SITENAME}" is behandeld door een moderator of een beheerder. De melding is daarna gesloten. Als je verdere vragen hebt, neem dan contact op met {CLOSER_NAME} via een privébericht.
+
+
+{EMAIL_SIG}
