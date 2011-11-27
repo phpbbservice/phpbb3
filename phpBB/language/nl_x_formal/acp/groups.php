@@ -48,7 +48,7 @@ $lang = array_merge($lang, array(
 	'GROUPS_NO_MODS'				=> 'Er zijn geen groepsleiders opgegeven',
 
 	'GROUP_APPROVE'					=> 'Lid goedkeuren',
-	'GROUP_APPROVED'				=> 'Leden goedkeuren',
+	'GROUP_APPROVED'				=> 'Goedgekeurde leden',
 	'GROUP_AVATAR'					=> 'Groeps-avatar',
 	'GROUP_AVATAR_EXPLAIN'			=> 'Deze afbeelding zal worden weergegeven in het groepspaneel.',
 	'GROUP_CLOSED'					=> 'Gesloten',

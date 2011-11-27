@@ -60,7 +60,7 @@ $help = array(
 	),
 	array(
 		0 => 'Ik heb in het verleden geregistreerd maar ik kan niet meer aanmelden?!',
-		1 => 'Controleer de e-mail die u indertijd bij de registratie hebt ontvangen, en controleer uw gebruikersnaam en wachtwoord en probeer het opnieuw. Het is mogelijk dat een beheerder uw account heeft geactiveerd of verwijderd voor een bepaalde reden. Sommige forums verwijderen periodiek gebruikers die een lange tijd niks hebben geplaatst om de grootte van de database te verkleinen. Als dit is gebeurd moet u opnieuw registeren en meer mee te doen aan discussies op het forum.'
+		1 => 'Het is mogelijk dat een beheerder uw account om bepaalde redenen heeft gedeactiveerd of verwijderd. Sommige forums verwijderen periodiek gebruikers die een bepaalde tijd zich niet hebben aangemeld of berichten hebben geplaatst om de grootte van de database te verkleinen. Wanneer dit is gebeurd, moet u zich opnieuw registeren om opnieuw te kunnen deelnemen in discussies.'
 	),
 	array(
 		0 => 'Wat is COPPA?',

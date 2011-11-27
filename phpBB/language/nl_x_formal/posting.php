@@ -48,7 +48,7 @@ $lang = array_merge($lang, array(
 	'BBCODE_A_HELP'				=> 'Geüploade bijlage in regel: [attachment=]bestandsnaam.ext[/attachment]',
 	'BBCODE_B_HELP'				=> 'Vetgedrukte tekst: [b]tekst[/b]',
 	'BBCODE_C_HELP'				=> 'Codeweergave: [code]code[/code] ',
-	'BBCODE_E_HELP'				=> 'Lijst: Een lijstelement toevoegen',
+	'BBCODE_D_HELP'				=> 'Flash: [flash=breedte,hoogte]http://www.phpBBservice.nl/flashbestand.swf[/flash]'
 	'BBCODE_F_HELP'				=> 'Lettergrootte: [size=85]Kleine tekst[/size]',
 	'BBCODE_IS_OFF'				=> '%sBBCode%s is <em>UIT</em>',
 	'BBCODE_IS_ON'				=> '%sBBCode%s is <em>AAN</em>',
@@ -61,7 +61,7 @@ $lang = array_merge($lang, array(
 	'BBCODE_S_HELP'				=> 'Letterkleur: [color=red]tekst[/color]  Tip: Je kan ook dit gebruiken: color=#FF0000',
 	'BBCODE_U_HELP'				=> 'Onderstreepte tekst: [u]tekst[/u]',
 	'BBCODE_W_HELP'				=> 'Link: [url]http://www.phpbbservice.nl[/url] of [url=http://www.phpbbservice.nl/]Dit is een link[/url]',
-	'BBCODE_D_HELP'				=> 'Flash: [flash=breedte,hoogte]http://www.phpBBservice.nl/flash.swf[/flash]',
+	'BBCODE_E_HELP'				=> 'Lijst: Een lijstelement toevoegen',
 	'BUMP_ERROR'				=> 'U kunt dit onderwerp niet zo snel omhooghalen na uw laatste bericht.',
 
 	'CANNOT_DELETE_REPLIED'		=> 'Sorry maar u mag geen berichten verwijderen waar op gereageerd is.',

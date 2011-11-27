@@ -1,5 +1,5 @@
 
-Het volgende bericht is verzonden naar u door een beheerder van "{SITENAME}". Als dit bericht ongewenste of aanstootgevende inhoud bevat neem dan contact op met de beheerder van het forum op het volgende adres:
+Het volgende bericht is verzonden door een beheerder van "{SITENAME}". Als dit bericht ongewenste of aanstootgevende inhoud bevat neem dan contact op met de beheerder van het forum op het volgende adres:
 
 {CONTACT_EMAIL}
 

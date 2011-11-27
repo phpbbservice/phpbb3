@@ -327,6 +327,16 @@ $lang = array_merge($lang, array(
 	'DATABASE_SERVER_INFO'	=> 'Database-server',
 	'DATABASE_SIZE'			=> 'Database-grootte',
 
+// Enviroment configuration checks, mbstring related
+	'ERROR_MBSTRING_FUNC_OVERLOAD'					=> 'De functie overloading is onjuist geconfigureerd',
+	'ERROR_MBSTRING_FUNC_OVERLOAD_EXPLAIN'			=> '<var>mbstring.func_overload</var> moet worden ingesteld op 0 of 4. U kunt de huidige waarde op de <samp>PHP-informatie</samp> pagina controleren.',
+	'ERROR_MBSTRING_ENCODING_TRANSLATION'			=> 'De tekens bij de vertalingscodering is onjuist geconfigureerd',
+	'ERROR_MBSTRING_ENCODING_TRANSLATION_EXPLAIN'	=> '<var>mbstring.encoding_translation</var> moet worden ingesteld op 0. U kunt de huidige waarde op de <samp>PHP-informatie</samp> pagina controleren.',
+	'ERROR_MBSTRING_HTTP_INPUT'						=> 'De tekens conversie van de HTTP-input is onjuist geconfigureerd',
+	'ERROR_MBSTRING_HTTP_INPUT_EXPLAIN'				=> '<var>mbstring.http_input</var> moet worden ingesteld op <samp>pass</samp>. U kunt de huidige waarde op de <samp>PHP-informatie</samp> pagina controleren.',
+	'ERROR_MBSTRING_HTTP_OUTPUT'					=> 'De tekens conversie van de HTTP-output is onjuist geconfigureerd',
+	'ERROR_MBSTRING_HTTP_OUTPUT_EXPLAIN'			=> '<var>mbstring.http_output</var> moet worden ingesteld op <samp>pass</samp>. U kunt de huidige waarde op de <samp>PHP-informatie</samp> pagina controleren.',
+
 	'FILES_PER_DAY'		=> 'Bijlagen per dag',
 	'FORUM_STATS'		=> 'Forumstatistieken',
 
