@@ -1,0 +1,9 @@
+Subject: Je account heractiveren
+
+Hallo {USERNAME},
+
+Je account op "{SITENAME}" is gedeactiveerd, dat gebeurt meestal als je wijzigingen hebt aangebracht aan jouw profiel. Om jouw account te heractiveren moet je op de link hieronder klikken:
+
+{U_ACTIVATE}
+
+{EMAIL_SIG}
