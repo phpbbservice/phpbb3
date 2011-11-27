@@ -68,8 +68,8 @@ $lang = array_merge($lang, array(
 
 	'LENGTH_BAN_INVALID'		=> 'De datum moet worden ingevoerd in het formaat <kbd>YYYY-MM-DD</kbd>.',
 
-   	'OPTIONS_BANNED'         	=> 'Verbannen',
-   	'OPTIONS_EXCLUDED'         	=> 'Uitgesloten',
+	'OPTIONS_BANNED'         	=> 'Verbannen',
+	'OPTIONS_EXCLUDED'         	=> 'Uitgesloten',
    	
 	'PERMANENT'					=> 'Permanent',
 
