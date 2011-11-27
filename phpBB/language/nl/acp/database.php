@@ -54,11 +54,12 @@ $lang = array_merge($lang, array(
 	'DOWNLOAD_BACKUP'			=> 'Back-up downloaden',
 
 	'FILE_TYPE'			=> 'Bestandstype',
-	'FILE_WRITE_FAIL'	=> 'Het was niet mogelijk om een bestand te schrijven naar de opslag-map.',
+	'FILE_WRITE_FAIL'	=> 'Het was niet mogelijk om een bestand te schrijven naar de store-map.',
 	'FULL_BACKUP'		=> 'Volledig',
 
 	'RESTORE_FAILURE'		=> 'Het back-up bestand is mogelijk beschadigd.',
 	'RESTORE_OPTIONS'		=> 'Herstelopties',
+	'RESTORE_SELECTED_BACKUP'   => 'Weet je zeker dat je de geselecteerde back-up wilt herstellen?',	
 	'RESTORE_SUCCESS'		=> 'De database is succesvol hersteld.<br /><br />Je forum zal nu in de staat zijn van wanneer de back-up was genomen.',
 
 	'SELECT_ALL'			=> 'Alles selecteren',

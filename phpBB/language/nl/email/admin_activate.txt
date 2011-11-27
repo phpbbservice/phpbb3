@@ -2,7 +2,7 @@ Subject: Gebruikersaccount activeren
 
 Hallo,
 
-De account "{USERNAME}" is gedeactiveerd of pas aangemaakt, je zal de gegevens moeten controleren van deze gebruiker (indien nodig) en de aanvraag afhandelen.
+Het account "{USERNAME}" is gedeactiveerd of pas aangemaakt, je zal de gegevens moeten controleren van deze gebruiker (indien nodig) en de aanvraag afhandelen.
 
 Gebruik deze link om het profiel van de gebruiker te bekijken:
 {U_USER_DETAILS}

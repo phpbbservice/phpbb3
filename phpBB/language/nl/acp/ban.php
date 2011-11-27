@@ -68,7 +68,10 @@ $lang = array_merge($lang, array(
 
 	'LENGTH_BAN_INVALID'		=> 'De datum moet worden ingevoerd in het formaat <kbd>YYYY-MM-DD</kbd>.',
 
-	'PERMANENT'		=> 'Permanent',
+   	'OPTIONS_BANNED'         	=> 'Verbannen',
+   	'OPTIONS_EXCLUDED'         	=> 'Uitgesloten',
+   	
+	'PERMANENT'					=> 'Permanent',
 
 	'UNTIL'						=> 'Tot',
 	'USER_BAN'					=> 'Eén of meer gebruikersnamen verbannen',

@@ -53,7 +53,7 @@ $lang = array_merge($lang, array(
 	'SYSTEM_TIMEZONE'				=> 'Tijdzone voor gasten',
 	'SYSTEM_TIMEZONE_EXPLAIN'       => 'De tijdzone die gebruikt wordt voor de tijd te laten weergeven aan gebruikers die niet zijn aangemeld (gasten, bots). Aangemelde gebruikers kunnen hun tijdzone die ze tijdens het registratieproces hebben ingesteld wijzigen in hun gebruikerspaneel.',
 	'WARNINGS_EXPIRE'				=> 'Waarschuwingsduur',
-	'WARNINGS_EXPIRE_EXPLAIN'		=> 'Aantal dagen wanneer de waarschuwing zal verlopen, de gebruikerswaarschuwing zal dan automatisch worden verwijderd.',
+	'WARNINGS_EXPIRE_EXPLAIN'		=> 'Aantal dagen wanneer de waarschuwing zal verlopen, de gebruikerswaarschuwing zal dan automatisch worden verwijderd. Zet deze waarde op 0 om waarschuwing permanent te maken.',
 ));
 
 // Board Features
@@ -174,7 +174,7 @@ $lang = array_merge($lang, array(
 	'MAX_POST_URLS'					=> 'Maximaal aantal links per bericht',
 	'MAX_POST_URLS_EXPLAIN'			=> 'Maximaal aantal URLs in een bericht. Stel dit in op 0 voor een onbeperkt aantal links.',
 	'MIN_CHAR_LIMIT'				=> 'Minimaal aantal tekens per bericht',
-	'MIN_CHAR_LIMIT_EXPLAIN'		=> 'Het minimale aantal tekens dat een gebruiker moet invoeren om een bericht/privébericht te plaatsen.',
+	'MIN_CHAR_LIMIT_EXPLAIN'		=> 'Het minimale aantal tekens dat een gebruiker moet invoeren om een bericht/privébericht te plaatsen. Het minimum voor deze instelling is 1.',
 	'POSTING'						=> 'Berichten',
 	'POSTS_PER_PAGE'				=> 'Berichten per pagina',
 	'QUOTE_DEPTH_LIMIT'				=> 'Maximum in elkaar geplaatste citaten',

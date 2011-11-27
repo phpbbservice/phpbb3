@@ -8,7 +8,7 @@ Je hebt een nieuw privébericht ontvangen van "{AUTHOR_NAME}" op "{SITENAME}" me
 
 Je kan jouw nieuwe privébericht bekijken door te klikken op de volgende link:
 
-{U_INBOX}
+{U_VIEW_MESSAGE}
 
 Je hebt ingesteld dat je een notificatie wilt ontvangen, vergeet niet dat je altijd kan kiezen of je notificaties wilt ontvangen bij nieuwe privéberichten door de juiste instellingen te wijzigen in jouw profiel.
 

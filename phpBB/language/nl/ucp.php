@@ -143,6 +143,7 @@ $lang = array_merge($lang, array(
 	'CURRENT_IMAGE'				=> 'Huidige afbeelding',
 	'CURRENT_PASSWORD'			=> 'Huidige wachtwoord',
 	'CURRENT_PASSWORD_EXPLAIN'	=> 'Je moet je huidige wachtwoord bevestigen als je het wilt veranderen, of als je jouw e-mailadres of gebruikersnaam hebt gewijzigd.',
+	'CUR_PASSWORD_EMPTY'		=> 'Je hebt niet je huidige wachtwoord ingevoerd.',
 	'CUR_PASSWORD_ERROR'		=> 'Het huidige wachtwoord dat je hebt ingevoerd is onjuist.',
 	'CUSTOM_DATEFORMAT'			=> 'Eigen formaat…',
 
@@ -271,10 +272,12 @@ $lang = array_merge($lang, array(
 	'MOVE_PM_ERROR'					=> 'Er heeft zich een fout voorgedaan tijden het verplaatsen van de berichten naar de nieuwe map, alleen %1d van %2d berichten zijn verplaatst.',
 	'MOVE_TO_FOLDER'				=> 'Verplaats naar map',
 	'MOVE_UP'						=> 'Verplaats omhoog',
-
+	
+	'NEW_EMAIL_CONFIRM_EMPTY'		=> 'Je hebt niet het bevestigings-e-mailadres opgegeven.',
 	'NEW_EMAIL_ERROR'				=> 'Het e-mailadres dat je hebt ingevoerd komt niet overeen.',
 	'NEW_FOLDER_NAME'				=> 'Nieuwe mapnaam',
 	'NEW_PASSWORD'					=> 'Nieuw wachtwoord',
+	'NEW_PASSWORD_CONFIRM_EMPTY'	=> 'Je hebt niet een bevestigingswachtwoord opgegeven.',
 	'NEW_PASSWORD_ERROR'			=> 'De wachtwoorden die je hebt ingevoerd komen niet overeen.',
 	'NOTIFY_METHOD'					=> 'Notificatiemethode',
 	'NOTIFY_METHOD_BOTH'			=> 'Beide',
