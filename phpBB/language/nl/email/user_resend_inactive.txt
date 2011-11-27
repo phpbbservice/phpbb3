@@ -8,7 +8,7 @@ Bewaar dit e-mailbericht goed voor je administratie. Je accountgegevens zijn als
 Gebruikersnaam: {USERNAME}
 ----------------------------
 
-Je wachtwoord is veilig opgeslagen in onze database en kan niet worden terug achterhaald. Mocht je jouw wachtwoord toch vergeten zijn, dan kan je een nieuw wachtwoord aanvragen door het e-mailadres te gebruiken dat geassocieerd is met jouw account.
+Je wachtwoord is veilig opgeslagen in onze database en kan niet worden terug achterhaald. Mocht je jouw wachtwoord toch vergeten zijn, dan kan je een nieuw wachtwoord aanvragen door het e-mailadres te gebruiken dat overeenkomt met jouw account.
 
 Bezoek de volgende link om jouw account te activeren:
 

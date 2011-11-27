@@ -4,6 +4,6 @@ Hallo {USERNAME},
 
 Je account op "{SITENAME}" is nu geactiveerd door een beheerder, je mag je nu aanmelden.
 
-Je wachtwoord is veilig opgeslagen in onze database en kan niet worden achterhaald. Mocht je jouw wachtwoord toch vergeten zijn, dan kan je een nieuw wachtwoord aanvragen door het e-mailadres te gebruiken dat overeenkomt is met jouw account.
+Je wachtwoord is veilig opgeslagen in onze database en kan niet worden achterhaald. Mocht je jouw wachtwoord toch vergeten zijn, dan kan je een nieuw wachtwoord aanvragen door het e-mailadres te gebruiken dat overeenkomt met jouw account.
 
 {EMAIL_SIG}
