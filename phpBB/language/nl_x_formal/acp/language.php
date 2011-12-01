@@ -42,7 +42,7 @@ $lang = array_merge($lang, array(
 	'EMAIL_FILES'			=> 'E-mail-templates',
 
 	'FILE_CONTENTS'				=> 'Bestandsinhoud',
-	'FILE_FROM_STORAGE'			=> 'Bestand vanuit de opslag-map',
+	'FILE_FROM_STORAGE'			=> 'Bestand vanuit de store-map',
 
 	'HELP_FILES'				=> 'Helpbestanden',
 
