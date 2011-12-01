@@ -42,7 +42,7 @@ $lang = array_merge($lang, array(
 	'EMAIL_FILES'			=> 'E-mail-templates',
 
 	'FILE_CONTENTS'				=> 'Bestandsinhoud',
-	'FILE_FROM_STORAGE'			=> 'Bestand vanuit de opslag-map',
+	'FILE_FROM_STORAGE'			=> 'Bestand vanuit de store-map',
 
 	'HELP_FILES'				=> 'Helpbestanden',
 
@@ -59,7 +59,7 @@ $lang = array_merge($lang, array(
 	'LANGUAGE_PACK_DELETED'				=> 'Het taalpakket <strong>%s</strong> is succesvol verwijderd. Alle gebruikers die deze taal gebruiken worden overgezet naar de standaard forumtaal.',
 	'LANGUAGE_PACK_DETAILS'				=> 'Details van het taalpakket',
 	'LANGUAGE_PACK_INSTALLED'			=> 'Het taalpakket <strong>%s</strong> is succesvol geïnstalleerd.',
-	'LANGUAGE_PACK_CPF_UPDATE'			=> 'De taalvariabelen van de aangepaste profielvelden zijn gekopieerd naar de standaard taal. Veranderd ze indien nodig.',
+	'LANGUAGE_PACK_CPF_UPDATE'			=> 'De taalvariabelen van de aangepaste profielvelden zijn gekopieerd naar de standaard taal. Verander ze indien nodig.',
 	'LANGUAGE_PACK_ISO'					=> 'ISO',
 	'LANGUAGE_PACK_LOCALNAME'			=> 'Lokale naam',
 	'LANGUAGE_PACK_NAME'				=> 'Naam',
