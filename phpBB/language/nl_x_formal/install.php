@@ -229,7 +229,7 @@ $lang = array_merge($lang, array(
 	'INST_ERR'						=> 'Installatiefout',
 	'INST_ERR_DB_CONNECT'			=> 'Kon geen verbinding maken met de database, zie het foutbericht hieronder.',
 	'INST_ERR_DB_FORUM_PATH'		=> 'Het database-bestand dat is opgegeven bevindt zich in de forumdirectory hiërarchie. U zult dit bestand moeten plaatsen in een locatie die niet via het web toegankelijk.',
-	'INST_ERR_DB_INVALID_PREFIX'	=> 'De prefix die u heeft ingevoerd is onjuist. Het moet starten met een alfanumeriek teken en mag alleen alfanumerieke tekens, getallen en onderstrepingen bevatten.',
+	'INST_ERR_DB_INVALID_PREFIX'	=> 'De prefix die u heeft ingevoerd is onjuist. Het moet starten met een letter en mag alleen letters, getallen en onderstrepingen bevatten.',
 	'INST_ERR_DB_NO_ERROR'			=> 'Geen foutmelding gegeven.',
 	'INST_ERR_DB_NO_MYSQLI'			=> 'De versie van MySQL die geïnstalleerd is op deze server werkt niet met de “MySQL met MySQLi-extentie” optie die u heeft geselecteerd. Probeer in plaats daarvan de optie “MySQL”.',
 	'INST_ERR_DB_NO_SQLITE'			=> 'De versie van de SQLite-extensie dat u heeft geïnstalleerd is te oud, het moet minstens geüpgrade zijn naar versie 2.8.2.',
@@ -350,7 +350,7 @@ $lang = array_merge($lang, array(
 
 	'TABLES_MISSING'			=> 'De volgende tabellen kunnen niet worden gevonden<br />» <strong>%s</strong>.',
 	'TABLE_PREFIX'				=> 'Prefix voor tabellen in de database',
-	'TABLE_PREFIX_EXPLAIN'		=> 'De prefix moet starten met een alfanumeriek teken en mag alleen alfanumerieke tekens, getallen en onderstrepingen bevatten.',
+	'TABLE_PREFIX_EXPLAIN'		=> 'De prefix moet starten met een letter en mag alleen letters, getallen en onderstrepingen bevatten.',
 	'TABLE_PREFIX_SAME'			=> 'De tabelprefix moet dezelfde zijn als de software waarvan u wilt converteren.<br />» Ingevoerde tabelprefix was %s.',
 	'TESTS_PASSED'				=> 'Tests geslaagd',
 	'TESTS_FAILED'				=> 'Tests mislukt',
