@@ -61,7 +61,7 @@ $lang = array_merge($lang, array(
 	'BBCODE_S_HELP'				=> 'Letterkleur: [color=red]tekst[/color]  Tip: Je kan ook dit gebruiken: color=#FF0000',
 	'BBCODE_U_HELP'				=> 'Onderstreepte tekst: [u]tekst[/u]',
 	'BBCODE_W_HELP'				=> 'Link: [url]http://www.phpbbservice.nl[/url] of [url=http://www.phpbbservice.nl/]Dit is een link[/url]',
-	'BBCODE_E_HELP'				=> 'Lijst: Een lijstelement toevoegen',
+	'BBCODE_Y_HELP'				=> 'Lijst: Een lijstelement toevoegen',
 	'BUMP_ERROR'				=> 'U kunt dit onderwerp niet zo snel omhooghalen na uw laatste bericht.',
 
 	'CANNOT_DELETE_REPLIED'		=> 'Sorry maar u mag geen berichten verwijderen waar op gereageerd is.',
