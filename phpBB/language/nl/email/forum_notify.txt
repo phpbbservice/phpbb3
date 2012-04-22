@@ -2,7 +2,7 @@ Subject: Notificatie over nieuwe reactie - "{FORUM_NAME}"
 
 Hallo {USERNAME},
 
-Je ontvangt deze notificatie om je bent geabonneerd op het forum "{FORUM_NAME}" op "{SITENAME}". Dit forum heeft een nieuwe reactie ontvangen in het onderwerp "{TOPIC_TITLE}" sinds jouw laatste bezoek. Je kan de volgende link gebruiken om de laatst ongelezen reactie te bekijken, er zullen geen notificaties meer gestuurd worden totdat je het onderwerp hebt bezocht.
+Je ontvangt deze notificatie omdat je bent geabonneerd op het forum "{FORUM_NAME}" op "{SITENAME}". Dit forum heeft een nieuwe reactie ontvangen in het onderwerp "{TOPIC_TITLE}" sinds jouw laatste bezoek. Je kan de volgende link gebruiken om de laatst ongelezen reactie te bekijken, er zullen geen notificaties meer gestuurd worden totdat je het onderwerp hebt bezocht.
 
 {U_NEWEST_POST}
 

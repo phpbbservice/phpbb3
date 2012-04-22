@@ -2,7 +2,7 @@ Subject: Notificatie over nieuwe reactie - "{TOPIC_TITLE}"
 
 Hallo {USERNAME},
 
-Je ontvangt deze notificatie om je bent geabonneerd op het onderwerp "{TOPIC_TITLE}" op "{SITENAME}". Dit onderwerp heeft een nieuwe reactie ontvangen sinds jouw laatste bezoek. Je kan de volgende link gebruiken om de reacties te bekijken die er zijn gemaakt, er zullen geen notificaties meer gestuurd worden totdat je het onderwerp hebt bezocht.
+Je ontvangt deze notificatie omdat je bent geabonneerd op het onderwerp "{TOPIC_TITLE}" op "{SITENAME}". Dit onderwerp heeft een nieuwe reactie ontvangen sinds jouw laatste bezoek. Je kan de volgende link gebruiken om de reacties te bekijken die er zijn gemaakt, er zullen geen notificaties meer gestuurd worden totdat je het onderwerp hebt bezocht.
 
 Als je het nieuwste bericht die gemaakt is sinds jouw laatste bezoek wilt bekijken, klik dan op de volgende link:
 {U_NEWEST_POST}
