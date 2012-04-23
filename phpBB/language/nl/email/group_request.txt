@@ -1,8 +1,8 @@
-Subject: Een aanvraag om lid te worden van een groep die jij beheerd is gemaakt
+Subject: Een aanvraag om lid te worden van een groep die jij beheert is gemaakt
 
 Beste {USERNAME},
 
-De gebruiker "{REQUEST_USERNAME}" heeft een lidmaatschap aangevraagd van de groep "{GROUP_NAME}" die jij beheerd op "{SITENAME}".
+De gebruiker "{REQUEST_USERNAME}" heeft een lidmaatschap aangevraagd van de groep "{GROUP_NAME}" die jij beheert op "{SITENAME}".
 Om deze aanvraag voor het groepslidmaatschap goed of af te keuren bezoek je de volgende link:
 
 {U_PENDING}

@@ -10,7 +10,6 @@ Je kan je nieuwe privébericht bekijken door te klikken op de volgende link:
 
 {U_VIEW_MESSAGE}
 
-Je hebt het zo ingesteld dat je een bericht wilt ontvangen bij nieuwe privéberichten, 
-vergeet niet dat je het altijd zo in kan stellen of je wel of geen berichten wilt ontvangen bij nieuwe privéberichten, dat kan je doen door de juiste instellingen te wijzigen in je profiel.
+Je hebt het zo ingesteld dat je een bericht wilt ontvangen bij nieuwe privéberichten, vergeet niet dat je het altijd zo in kan stellen of je wel of geen berichten wilt ontvangen bij nieuwe privéberichten, dat kan je doen door de juiste instellingen te wijzigen in je profiel.
 
 {EMAIL_SIG}
