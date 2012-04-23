@@ -2,7 +2,7 @@ Subject: Welkom op "{SITENAME}"
 
 {WELCOME_MSG}
 
-Bewaar dit e-mailbericht goed. Je accountgegevens zijn als volgt:
+Bewaar dit e-mailbericht goed het bevat belangrijke informatie. Je accountgegevens zijn als volgt:
 
 ----------------------------
 Gebruikersnaam: {USERNAME}

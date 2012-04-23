@@ -3,7 +3,7 @@ Subject: Account op "{SITENAME}" heractiveren
 Een forumbeheerder heeft ingesteld dat jij je account moet heractiveren. Je account is momenteel inactief.
 Volg de stappen die hieronder zijn weergegeven om je account te heractiveren.
 
-Bewaar dit e-mailbericht goed er staan namelijk belangrijke gegevens in. Je accountgegevens zijn als volgt:
+Bewaar dit e-mailbericht goed het bevat belangrijke informatie. Je accountgegevens zijn als volgt:
 
 ----------------------------
 Gebruikersnaam: {USERNAME}
