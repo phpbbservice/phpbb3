@@ -2,7 +2,7 @@ Subject: Welkom bij "{SITENAME}"
 
 {WELCOME_MSG}
 
-Bewaar dit e-mailbericht goed voor je administratie. Je accountgegevens zijn als volgt:
+Bewaar dit e-mailbericht goed het bevat belangrijke informatie. Je accountgegevens zijn als volgt:
 
 ----------------------------
 Gebruikersnaam: {USERNAME}
@@ -10,11 +10,11 @@ Gebruikersnaam: {USERNAME}
 Forumadres: {U_BOARD}
 ----------------------------
 
-Bezoek de volgende link om jouw account te activeren:
+Bezoek de volgende link om je account te activeren:
 
 {U_ACTIVATE}
 
-Je wachtwoord is veilig opgeslagen in onze database en kan niet worden terug achterhaald. Mocht je jouw wachtwoord toch vergeten zijn, dan kan je een nieuw wachtwoord aanvragen door het e-mailadres te gebruiken dat overeenkomt met jouw account.
+Je wachtwoord is veilig opgeslagen in onze database en kan niet worden achterhaald. Mocht je toch je wachtwoord vergeten zijn, dan kan je een nieuw wachtwoord aanvragen door het e-mailadres te gebruiken dat overeenkomt met je account.
 
 Bedankt voor je registratie.
 

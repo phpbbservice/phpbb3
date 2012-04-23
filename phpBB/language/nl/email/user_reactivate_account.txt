@@ -1,17 +1,17 @@
-Subject: Je account op "{SITENAME}" heractiveren
+Subject: Account op "{SITENAME}" heractiveren
 
 Een forumbeheerder heeft ingesteld dat jij je account moet heractiveren. Je account is momenteel inactief.
-Volg de volgende stappen die hieronder zijn weergegeven om jouw account te haractiveren.
+Volg de stappen die hieronder zijn weergegeven om je account te heractiveren.
 
-Bewaar dit e-mailbericht goed voor je administratie. Je accountgegevens zijn als volgt:
+Bewaar dit e-mailbericht goed er staan namelijk belangrijke gegevens in. Je accountgegevens zijn als volgt:
 
 ----------------------------
 Gebruikersnaam: {USERNAME}
 ----------------------------
 
-Je wachtwoord is veilig opgeslagen in onze database en kan niet worden terug achterhaald. Mocht je jouw wachtwoord toch vergeten zijn, dan kan je een nieuw wachtwoord aanvragen door het e-mailadres te gebruiken dat overeenkomt met jouw account.
+Je wachtwoord is veilig opgeslagen in onze database en kan niet worden achterhaald. Mocht je toch je wachtwoord vergeten zijn, dan kan je een nieuw wachtwoord aanvragen door het e-mailadres te gebruiken dat overeenkomt met je account.
 
-Bezoek de volgende link om jouw account te heractiveren:
+Bezoek de volgende link om je account te heractiveren:
 
 {U_ACTIVATE}
 

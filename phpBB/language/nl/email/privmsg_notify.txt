@@ -6,10 +6,11 @@ Je hebt een nieuw privébericht ontvangen van "{AUTHOR_NAME}" op "{SITENAME}" me
 
 {SUBJECT}
 
-Je kan jouw nieuwe privébericht bekijken door te klikken op de volgende link:
+Je kan je nieuwe privébericht bekijken door te klikken op de volgende link:
 
 {U_VIEW_MESSAGE}
 
-Je hebt ingesteld dat je een notificatie wilt ontvangen, vergeet niet dat je altijd kan kiezen of je notificaties wilt ontvangen bij nieuwe privéberichten door de juiste instellingen te wijzigen in jouw profiel.
+Je hebt het zo ingesteld dat je een bericht wilt ontvangen bij nieuwe privéberichten, 
+vergeet niet dat je het altijd zo in kan stellen of je wel of geen berichten wilt ontvangen bij nieuwe privéberichten, dat kan je doen door de juiste instellingen te wijzigen in je profiel.
 
 {EMAIL_SIG}

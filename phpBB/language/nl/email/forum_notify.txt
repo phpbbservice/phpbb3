@@ -1,8 +1,8 @@
-Subject: Notificatie over nieuwe reactie - "{FORUM_NAME}"
+Subject: Nieuw bericht in forum - "{FORUM_NAME}"
 
 Hallo {USERNAME},
 
-Je ontvangt deze notificatie omdat je bent geabonneerd op het forum "{FORUM_NAME}" op "{SITENAME}". Dit forum heeft een nieuwe reactie ontvangen in het onderwerp "{TOPIC_TITLE}" sinds jouw laatste bezoek. Je kan de volgende link gebruiken om de laatst ongelezen reactie te bekijken, er zullen geen notificaties meer gestuurd worden totdat je het onderwerp hebt bezocht.
+Je ontvangt dit bericht omdat je bent geabonneerd op het forum "{FORUM_NAME}" op "{SITENAME}". Dit forum heeft een nieuwe reactie ontvangen in het onderwerp "{TOPIC_TITLE}" sinds je laatste bezoek. Je kan de volgende link gebruiken om de laatst ongelezen reactie te bekijken, er zullen geen berichten meer worden verstuurd totdat je het onderwerp hebt bezocht.
 
 {U_NEWEST_POST}
 
@@ -12,7 +12,7 @@ Als je het onderwerp wilt bekijken, klik dan op de volgende link:
 Als je het forum wilt bekijken, klik dan op de volgende link:
 {U_FORUM}
 
-Als je niet langer meer geabonneerd wilt zijn op dit forum kan je of klikken op de link "Abonnement op dit forum stopzetten" die je kan vinden in het forum hierboven of door op de volgende link te klikken:
+Als je niet langer meer geabonneerd wilt zijn op dit forum kan je of klikken op de link "Abonnement op dit forum stopzetten" die kan je vinden in het forum hierboven of door op de volgende link te klikken:
 
 {U_STOP_WATCHING_FORUM}
 

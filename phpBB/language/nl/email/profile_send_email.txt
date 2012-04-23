@@ -1,13 +1,13 @@
 
 Hallo {TO_USERNAME},
 
-Het volgende bericht is verzonden naar jouw door {FROM_USERNAME} naar jouw account op "{SITENAME}". Als dit bericht ongewenste of aanstootgevende inhoud bevat neem dan contact op met de beheerder van het forum op het volgende adres:
+Het volgende bericht is verzonden naar jouw door {FROM_USERNAME} naar je account op "{SITENAME}". Als dit bericht ongewenste of aanstootgevende inhoud bevat neem dan contact op met de beheerder van het forum op het volgende adres:
 
 {BOARD_CONTACT}
 
-Voeg het onderstaande bericht in zijn geheel bij (met name de headers). Vergeet niet dat het antwoordadres van dit e-mailbericht is ingesteld naar dat van {FROM_USERNAME}.
+Voeg het onderstaande bericht in zijn geheel toe (met name de headers). Vergeet niet dat het antwoordadres van dit e-mailbericht is ingesteld naar dat van {FROM_USERNAME}.
 
-Bericht dat naar jou verzonden is:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bericht dat verzonden is:
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 {MESSAGE}

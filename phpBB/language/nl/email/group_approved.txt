@@ -3,7 +3,7 @@ Subject: Je aanvraag is goedgekeurd
 Gefeliciteerd,
 
 Je aanvraag om lid te worden van de "{GROUP_NAME}"-groep op "{SITENAME}" is goedgekeurd.
-Klik op de volgende link om jouw groepslidmaatschap te bekijken.
+Klik op de volgende link om je groepslidmaatschap te bekijken.
 
 {U_GROUP}
 
