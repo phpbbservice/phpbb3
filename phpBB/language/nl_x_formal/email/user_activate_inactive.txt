@@ -2,6 +2,6 @@ Subject: Uw account is gedeactiveerd
 
 Hallo {USERNAME},
 
-Uw account op "{SITENAME}" is gedeactiveerd, dat gebeurt meestal als u wijzigingen hebt aangebracht aan uw profiel. De beheerder van dit forum moet eerst uw account activeren voordat u zich weer kan aanmelden. U zult een ander bericht ontvangen zodra dit is gebeurd.
+Uw account op "{SITENAME}" is gedeactiveerd, dat gebeurt meestal als u wijzigingen heeft aangebracht aan uw profiel. De beheerder van dit forum moet eerst uw account activeren voordat u zich weer kan aanmelden. U zult een ander bericht ontvangen zodra dit is gebeurd.
 
 {EMAIL_SIG}
