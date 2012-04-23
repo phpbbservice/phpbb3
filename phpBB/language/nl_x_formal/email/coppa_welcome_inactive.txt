@@ -35,7 +35,7 @@ Datum: _______________
 
 Zodra de beheerder het bovenstaand formulier heeft ontvangen via de fax of post, zal uw account worden geactiveerd.
 
-Uw wachtwoord is veilig opgeslagen in onze database en kan niet worden terug achterhaald. Mocht u uw wachtwoord toch vergeten zijn, dan kunt u een nieuw wachtwoord aanvragen door het e-mailadres te gebruiken dat geassocieerd is met uw account.
+Uw wachtwoord is veilig opgeslagen in onze database en kan niet worden achterhaald. Mocht u toch uw wachtwoord vergeten zijn, dan kunt u een nieuw wachtwoord aanvragen door het e-mailadres te gebruiken dat overeenkomt met uw account.
 
 Bedankt voor uw registratie.
 

@@ -2,13 +2,13 @@ Subject: Welkom bij "{SITENAME}"
 
 {WELCOME_MSG}
 
-Bewaar dit e-mailbericht goed voor uw administratie. Uw accountgegevens zijn als volgt:
+Bewaar dit e-mailbericht goed het bevat belangrijke informatie. uw accountgegevens zijn als volgt:
 
 ----------------------------
 Gebruikersnaam: {USERNAME}
 ----------------------------
 
-Uw wachtwoord is veilig opgeslagen in onze database en kan niet worden terug achterhaald. Mocht u uw wachtwoord toch vergeten zijn, dan kunt u een nieuw wachtwoord aanvragen door het e-mailadres te gebruiken, dat geassocieerd is met uw account.
+Uw wachtwoord is veilig opgeslagen in onze database en kan niet worden achterhaald. Mocht u toch uw wachtwoord vergeten zijn, dan kunt u een nieuw wachtwoord aanvragen door het e-mailadres te gebruiken dat overeenkomt met uw account.
 
 Bezoek de volgende link om uw account te activeren:
 

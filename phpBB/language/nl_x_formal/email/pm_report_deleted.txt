@@ -2,7 +2,7 @@ Subject: Melding verwijderd - "{PM_SUBJECT}"
 
 Hallo {USERNAME},
 
-U ontvangt deze notificatie omdat de melding, die u had ingevuld over het privébericht "{PM_SUBJECT}" op "{SITENAME}", verwijderd is door een moderator of beheerder.
+U ontvangt dit bericht over de melding die u hebt ingevuld over het privébericht "{PM_SUBJECT}" op "{SITENAME}". Een moderator of beheerder heeft uw melding verwijderd.
 
 
 {EMAIL_SIG}
