@@ -4,7 +4,6 @@
 * common [Dutch]
 *
 * @package language
-* @version $Id: common.php 330 2010-11-14 22:15:21Z Raimon $
 * @copyright (c) 2005 phpBB Group, 2007 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
@@ -43,7 +42,7 @@ $lang = array_merge($lang, array(
 	'TRANSLATION_INFO'	=> 'Vertaald door <a href="http://www.phpBBservice.nl/">phpBBservice.nl</a>.',
 	'DIRECTION'			=> 'ltr',
 	'DATE_FORMAT'		=> '|d M Y|',	// 01 Jan 2007 (with Relative days enabled)
-	'USER_LANG'			=> 'nl',
+	'USER_LANG'			=> 'nl-x-formal',  
 
 	'1_DAY'			=> '1 dag',
 	'1_MONTH'		=> '1 maand',

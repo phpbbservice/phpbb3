@@ -4,7 +4,6 @@
 * search_synonyms [Dutch]
 *
 * @package language
-* @version $Id: search_synonyms.php 199 2009-10-08 20:08:49Z Raimon $
 * @copyright (c) 2005 phpBB Group, 2007 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *

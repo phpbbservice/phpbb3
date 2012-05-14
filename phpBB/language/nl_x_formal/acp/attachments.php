@@ -4,7 +4,6 @@
 * acp_attachments [Dutch]
 *
 * @package language
-* @version $Id: attachments.php 322 2010-09-01 10:46:30Z Raimon $
 * @copyright (c) 2005 phpBB Group, 2007 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *

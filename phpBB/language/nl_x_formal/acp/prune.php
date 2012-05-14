@@ -4,7 +4,6 @@
 * acp_prune [Dutch]
 *
 * @package language
-* @version $Id: prune.php 204 2009-10-11 17:04:22Z rotsblok $
 * @copyright (c) 2005 phpBB Group, 2007 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *

@@ -4,7 +4,6 @@
 * mcp [Dutch]
 *
 * @package language
-* @version $Id: mcp.php 266 2010-01-27 00:59:40Z Raimon $
 * @copyright (c) 2005 phpBB Group, 2007 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *

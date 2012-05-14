@@ -4,7 +4,6 @@
 * captcha_recaptcha [Dutch]
 *
 * @package language
-* @version $Id: captcha_recaptcha.php 328 2010-11-10 20:18:23Z Raimon $
 * @copyright (c) 2008 phpBB Group, 2009 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *

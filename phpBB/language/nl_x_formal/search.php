@@ -4,7 +4,6 @@
 * search [Dutch]
 *
 * @package language
-* @version $Id: search.php 328 2010-11-10 20:18:23Z Raimon $
 * @copyright (c) 2005 phpBB Group, 2007 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *

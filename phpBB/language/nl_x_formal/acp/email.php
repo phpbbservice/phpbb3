@@ -4,7 +4,6 @@
 * acp_email [Dutch]
 *
 * @package language
-* @version $Id: email.php 253 2009-12-04 09:20:01Z rotsblok $
 * @copyright (c) 2005 phpBB Group, 2007 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *

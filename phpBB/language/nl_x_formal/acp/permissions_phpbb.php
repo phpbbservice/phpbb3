@@ -3,7 +3,6 @@
 * acp_permissions_phpbb (phpBB Permission Set) [Dutch]
 *
 * @package language
-* @version $Id: permissions_phpbb.php 199 2009-10-08 20:08:49Z Raimon $
 * @copyright (c) 2005 phpBB Group, 2007 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *

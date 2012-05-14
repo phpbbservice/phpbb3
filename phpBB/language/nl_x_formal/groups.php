@@ -4,7 +4,6 @@
 * groups [Dutch]
 *
 * @package language
-* @version $Id: groups.php 202 2009-10-09 07:52:03Z rotsblok $
 * @copyright (c) 2005 phpBB Group, 2007 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
