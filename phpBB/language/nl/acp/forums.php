@@ -4,7 +4,6 @@
 * acp_forums [Dutch]
 *
 * @package language
-* @version $Id: forums.php 270 2010-02-23 00:48:35Z Raimon $
 * @copyright (c) 2005 phpBB Group, 2007 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *

@@ -4,7 +4,6 @@
 * acp_users [Dutch]
 *
 * @package language
-* @version $Id: users.php 330 2010-11-14 22:15:21Z Raimon $
 * @copyright (c) 2005 phpBB Group, 2007 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *

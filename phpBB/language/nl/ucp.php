@@ -4,7 +4,6 @@
 * ucp [Dutch]
 *
 * @package language
-* @version $Id: ucp.php 316 2010-05-04 08:16:33Z rotsblok $
 * @copyright (c) 2005 phpBB Group, 2007 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *

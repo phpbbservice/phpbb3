@@ -4,7 +4,6 @@
 * viewtopic [Dutch]
 *
 * @package language
-* @version $Id: viewtopic.php 248 2009-11-30 15:24:28Z Raimon $
 * @copyright (c) 2005 phpBB Group, 2007 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *

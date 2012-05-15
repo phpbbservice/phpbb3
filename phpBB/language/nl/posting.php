@@ -4,7 +4,6 @@
 * posting [Dutch]
 *
 * @package language
-* @version $Id: posting.php 255 2009-12-13 14:23:54Z Raimon $
 * @copyright (c) 2005 phpBB Group, 2007 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *

@@ -4,7 +4,6 @@
 * help_faq [Dutch]
 *
 * @package language
-* @version $Id: help_faq.php 267 2010-01-31 16:12:05Z Raimon $
 * @copyright (c) 2005 phpBB Group, 2007 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *

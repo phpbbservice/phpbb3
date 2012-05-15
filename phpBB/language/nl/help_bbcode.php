@@ -4,7 +4,6 @@
 * help_bbcode [Dutch]
 *
 * @package language
-* @version $Id: help_bbcode.php 206 2009-10-12 06:41:46Z rotsblok $
 * @copyright (c) 2005 phpBB Group, 2007 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *

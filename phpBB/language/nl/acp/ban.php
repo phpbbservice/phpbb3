@@ -4,7 +4,6 @@
 * acp_ban [Dutch]
 *
 * @package language
-* @version $Id: ban.php 197 2009-10-08 19:50:08Z Raimon $
 * @copyright (c) 2005 phpBB Group, 2007 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *

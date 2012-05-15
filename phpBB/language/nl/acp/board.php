@@ -4,7 +4,6 @@
 * acp_board [Dutch]
 *
 * @package language
-* @version $Id: board.php 333 2011-01-28 20:26:38Z Raimon $
 * @copyright (c) 2005 phpBB Group, 2007 phpBBservice.nl
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
