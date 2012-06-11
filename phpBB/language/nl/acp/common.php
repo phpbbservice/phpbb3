@@ -405,6 +405,7 @@ $lang = array_merge($lang, array(
 	'INACTIVE_USERS'				=> 'Inactieve gebruikers',
 	'INACTIVE_USERS_EXPLAIN'		=> 'Dit is een lijst van gebruikers die zich hebben geregisteerd maar deze accounts zijn inactief. Je kan deze gebruikers activeren, verwijderen of een herinnering sturen (doormiddel van een e-mail).',
 	'INACTIVE_USERS_EXPLAIN_INDEX'	=> 'Dit is een lijst met de laatste 10 geregistreerde gebruikers die inactieve accounts hebben. Accounts zijn inactief omdat of hun accountactivatie was ingeschakeld in gebruikers-registratieinstelling en deze gebuikeraccounts zijn nog niet geactiveerd of ze zijn gedeactiveerd. Een volledige lijst is beschikbaar in het juiste menu of door de link hieronder te klikken waar deze gebruikers kan activeren, verwijderen of een herinnering sturen (via een e-mail).',
+	
 	'NO_INACTIVE_USERS'	=> 'Geen inactieve gebruikers',
 
 	'SORT_INACTIVE'		=> 'Inactiveringsdatum',

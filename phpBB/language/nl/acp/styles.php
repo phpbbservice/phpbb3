@@ -265,7 +265,7 @@ $lang = array_merge($lang, array(
 	'IMG_USER_ICON9'		=> 'Opgegeven gebruikersafbeelding 9',
 	'IMG_USER_ICON10'		=> 'Opgegeven gebruikersafbeelding 10',
 	
-    'INACTIVE_STYLES'		=> 'Inactieve stijlen',	
+	'INACTIVE_STYLES'		=> 'Inactieve stijlen',	
 
 	'INCLUDE_DIMENSIONS'		=> 'Afmetingen insluiten', // include?
 	'INCLUDE_IMAGESET'			=> 'Afbeeldingset insluiten', // include?
