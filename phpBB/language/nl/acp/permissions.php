@@ -170,7 +170,7 @@ $lang = array_merge($lang, array(
 	'ROLE_FORUM_POLLS'			=> 'Standaard toegang + peilingen',
 	'ROLE_FORUM_READONLY'		=> 'Alleen leestoegang',
 	'ROLE_FORUM_STANDARD'		=> 'Standaard toegang',
-	'ROLE_FORUM_NEW_MEMBER'		=> 'Pas geregistreerde gebruiker',
+	'ROLE_FORUM_NEW_MEMBER'		=> 'Pas geregistreerde gebruikerstoegang',
 	'ROLE_MOD_FULL'				=> 'Volledige moderator',
 	'ROLE_MOD_QUEUE'			=> 'Wachtrij moderator',
 	'ROLE_MOD_SIMPLE'			=> 'Eenvoudige moderator',
@@ -180,7 +180,7 @@ $lang = array_merge($lang, array(
 	'ROLE_USER_NOAVATAR'		=> 'Geen avatar',
 	'ROLE_USER_NOPM'			=> 'Geen privéberichten',
 	'ROLE_USER_STANDARD'		=> 'Standaard functies',
-	'ROLE_USER_NEW_MEMBER'		=> 'Pas geregistreerde gebruiker',
+	'ROLE_USER_NEW_MEMBER'		=> 'Pas geregistreerde gebruikersfuncties',
 
 	'ROLE_DESCRIPTION_ADMIN_FORUM'			=> 'Heeft toegang tot het forumbeheer en de instellingen van de forumpermissies.',
 	'ROLE_DESCRIPTION_ADMIN_FULL'			=> 'Heeft toegang tot alle beheerdersfuncties van dit forum.<br />Is niet aan te raden.',
@@ -271,7 +271,7 @@ $lang = array_merge($lang, array(
 	'TRACE_WHO'								=> 'Wie',
 	'TRACE_TOTAL'							=> 'Totaal',
 
-	'USERS_NOT_ASSIGNED'			=> 'Geen gebruiker toegewezen aan deze rol',
+	'USERS_NOT_ASSIGNED'			=> 'Er zijn geen gebruikers toegewezen aan deze rol',
 	'USER_IS_MEMBER_OF_DEFAULT'		=> 'Is een lid van de volgende voor-geïnstalleerde groepen',
 	'USER_IS_MEMBER_OF_CUSTOM'		=> 'Is een lid van de volgende groepen die geïnstalleerd zijn door een gebruiker',
 

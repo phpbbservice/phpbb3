@@ -51,6 +51,7 @@ $lang = array_merge($lang, array(
 	'BLANK_PREFIX_FOUND'			=> 'Een scan van jouw tabellen heeft een geldige installatie gevonden met het gebruik van geen tabel prefix.',
 	'BOARD_NOT_INSTALLED'			=> 'Geen installatie gevonden',
 	'BOARD_NOT_INSTALLED_EXPLAIN'	=> 'De phpBB Unified Convertor Framework, heeft een standaard phpBB3 installatie nodig om te functioneren, <a href="%s">ga verder doormiddel van eerst phpBB3 te installeren</a>.',
+	'BACKUP_NOTICE'					=> 'Voordat je begint met het updaten van je forum, raden we je aan om eerst een back-up te maken van je forum, voor het geval dat er problemen optreden tijdens het update-proces.',
 
 	'CATEGORY'					=> 'Categorie',
 	'CACHE_STORE'				=> 'Cache-type',
