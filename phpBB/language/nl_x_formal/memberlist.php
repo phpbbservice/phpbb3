@@ -109,7 +109,6 @@ $lang = array_merge($lang, array(
 
 	'POST_IP'				=> 'Geplaatst van IP/domein',
 
-	'RANK'					=> 'Rang',
 	'REAL_NAME'				=> 'Naam ontvanger',
 	'RECIPIENT'				=> 'Ontvanger',
 	'REMOVE_FOE'			=> 'Vijand verwijderen',

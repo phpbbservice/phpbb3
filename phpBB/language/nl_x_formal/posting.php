@@ -41,6 +41,7 @@ $lang = array_merge($lang, array(
 	'ADD_POLL'					=> 'Peiling toevoegen',
 	'ADD_POLL_EXPLAIN'			=> 'Wilt u geen peiling toevoegen? Laat deze velden dan leeg.',
 	'ALREADY_DELETED'			=> 'Sorry, maar dit bericht is al verwijderd.',
+	'ATTACH_DISK_FULL'			=> 'Er is niet genoeg schijfruimte vrij om deze bijlage te plaatsen.',	
 	'ATTACH_QUOTA_REACHED'		=> 'Sorry, de forum bijlagequota is bereikt.',
 	'ATTACH_SIG'				=> 'Onderschrift toevoegen (onderschrift kan aangepast worden in het gebruikerspaneel)',
 

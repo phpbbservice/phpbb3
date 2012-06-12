@@ -136,7 +136,8 @@ $lang = array_merge($lang, array(
 	'VC_REFRESH_EXPLAIN'		=> 'Als u de code niet kunt lezen, dan kunt u een nieuwe aanvragen door op de knop te klikken.',
 
 	'CONFIRM_PASSWORD'			=> 'Wachtwoord bevestigen',
-	'CONFIRM_PASSWORD_EXPLAIN'	=> 'U hoeft alleen uw wachtwoord te bevestigen als u het hierboven heeft veranderd.',
+	'CONFIRM_PASSWORD_EXPLAIN'	=> 'U moet uw huidige wachtwoord invoeren als u wenst om uw e-mailadres of gebruikersnaam te wijzigen.',
+	'CURRENT_CHANGE_PASSWORD_EXPLAIN' => 'Om uw wachtwoord, uw e-mailadres of uw gebruikersnaam te wijzigen, moet u uw huidige wachtwoord invoeren.',	
 	'COPPA_BIRTHDAY'			=> 'Om verder te gaan met de registratieprocedure moet u ons vertellen wanneer u bent geboren.',
 	'COPPA_COMPLIANCE'			=> 'COPPA klacht',
 	'COPPA_EXPLAIN'				=> 'Let op, wanneer u op versturen klikt zal uw account worden aangemaakt. Alhoewel het niet kan worden geactiveerd totdat een ouder of een voogd de registratie heeft goedkeurd. Er zal een kopie van het benodigde formulier met de benodige informatie, waar u het heen moet sturen, naar de opgegeven e-mailadres worden verstuurd.',
