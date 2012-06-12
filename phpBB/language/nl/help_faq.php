@@ -332,7 +332,7 @@ $help = array(
 	),
 	array(
 		0 => 'Waarom is een bepaalde functie niet beschikbaar?',
-		1 => 'Deze software is geschreven en eigendom van de phpBB-groep. Als je denkt dat er een functie met worden toegevoegd, of je hebt een bug melden, bezoek dan de phpBB <a href="http://area51.phpbb.com/">Area51</a> website, waar je alle nodige informatie erover vindt.'
+		1 => 'Deze software is geschreven en eigendom van de phpBB-groep. Als je denkt dat er een functie moet worden toegevoegd, of je hebt een bug melden, bezoek dan de phpBB <a href="http://area51.phpbb.com/">Area51</a> website, waar je alle nodige informatie erover vindt.'
 	),
 	array(
 		0 => 'Met wie neem ik contact op over ongewenste en/of illegale zaken die gerelateerd zijn aan dit forum?',
