@@ -55,10 +55,10 @@ $help = array(
 	),
 	array(
 		0 => 'Ik heb me geregistreerd maar kan niet aanmelden!',
-		1 => 'Controleer eerst of uw gebruikersnaam en wachtwoord juist zijn. Als ze correct zijn dan kunnen er twee dingen gebeurd zijn. Als de COPPA-ondersteuning is ingeschakeld en u hebt opgegeven dat u jonger bent dat 13 jaar tijdens de registratie, dan zult u de instructies moeten opvolgen die u hebt ontvangen. Bij sommige forums moeten nieuwe registraties eerst worden geactiveerd, dat kan door uwzelf of door een beheerder worden gedaan voordat u kunt aanmelden. Deze informatie was vermeld tijdens de registratie. Indien u een e-mail hebt ontvangen volg dan de instructies op. Wanneer u geen e-mail hebt ontvangen, kan het zijn dat u een onjuist e-mailadres hebt opgegeven of dat de e-mail is opgepikt door een spamfilter. Als u er zeker van bent dat het e-mailadres juist is dat u hebt opgegeven, neem dan contact op met een beheerder.'
+		1 => 'Controleer eerst of uw gebruikersnaam en wachtwoord juist zijn. Als deze juist zijn kunnen er twee dingen gebeurd zijn. Als de COPPA-ondersteuning is ingeschakeld en u hebt opgegeven dat u jonger bent dat 13 jaar tijdens de registratie, dan zult u de instructies moeten opvolgen die u hebt ontvangen. Bij sommige forums moeten nieuwe registraties eerst worden geactiveerd, dat kan door uwzelf of door een beheerder worden gedaan voordat u kunt aanmelden. Deze informatie was vermeld tijdens de registratie. Indien u een e-mail hebt ontvangen volg dan de instructies op. Wanneer u geen e-mail hebt ontvangen, kan het zijn dat u een onjuist e-mailadres hebt opgegeven of dat de e-mail is opgepikt door een spamfilter. Als u er zeker van bent dat het e-mailadres juist is dat u hebt opgegeven, neem dan contact op met een beheerder.'
 	),
 	array(
-		0 => 'Ik heb in het verleden geregistreerd maar ik kan niet meer aanmelden?!',
+		0 => 'Ik heb in het verleden geregistreerd maar ik kan niet meer aanmelden?',
 		1 => 'Het is mogelijk dat een beheerder uw account om bepaalde redenen heeft gedeactiveerd of verwijderd. Sommige forums verwijderen periodiek gebruikers die een bepaalde tijd zich niet hebben aangemeld of berichten hebben geplaatst om de grootte van de database te verkleinen. Wanneer dit is gebeurd, moet u zich opnieuw registeren om opnieuw te kunnen deelnemen in discussies.'
 	),
 	array(
@@ -332,11 +332,11 @@ $help = array(
 	),
 	array(
 		0 => 'Waarom is een bepaalde functie niet beschikbaar?',
-		1 => 'Deze software is geschreven en eigendom van de phpBB-groep. Als u denkt dat er een functie moet worden toegevoegd, of u wilt een bug melden, bezoek dan de phpBB <a href="http://area51.phpbb.com/">Area51</a> website, waar u alle nodige informatie erover vindt.'
+		1 => 'Deze software is geschreven en eigendom van de phpBB-groep. Als u denkt dat er een functie moet worden toegevoegd of u wilt een bug melden, bezoek dan de phpBB <a href="http://area51.phpbb.com/">Area51</a> website, waar u alle nodige informatie erover vindt.'
 	),
 	array(
 		0 => 'Met wie neem ik contact op over ongewenste en/of illegale zaken die gerelateerd zijn aan dit forum?',
-		1 => 'Eén van de beheerders, die zijn weergegeven op de “Het team”-pagina, is normaal een goed contactpunt voor uw klachten. Als u nog steeds geen reactie krijgt, dan zult u contact moeten zoeken met de eigenaar van het domein (doe een <a href="http://www.google.nl/search?q=whois">whois lookup</a>) of, als dit staat op een gratis forumservice (bijvoorbeeld yourbb, forum2go, xsBB, actieforum, phpbb3.nl, phpbb.net, enz.) neem dan contact op met het management of de misbruikafdeling van de service die gebruikt wordt. Vergeet niet dat de phpBB-groep <strong>absoluut geen verantwoordelijkheid</strong> heeft en kan dus op geen enkele manier verantwoordelijk worden gehouden, over hoe en waar dit forum wordt gebruikt. Neem geen contact op met de phpBB-groep over enige juridische (beëindiging, verantwoordelijkheid, beledigende opmerkingen, etc.) zaken <strong>die niet direct gerelateerd zijn</strong> aan de phpBB.com-website of de phpBB-software zelf. Als u de phpBB-groep mailt <strong>over een derde partij</strong> die deze software gebruikt, dan kunt u een verlate reactie of helemaal geen reactie verwachten.'
+		1 => 'Eén van de beheerders die zijn weergegeven op de “Het team”-pagina, is normaal een goed contactpunt voor uw klachten. Als u nog steeds geen reactie krijgt, dan zult u contact moeten zoeken met de eigenaar van het domein (doe een <a href="http://www.google.nl/search?q=whois">whois lookup</a>) of als dit staat op een gratis forumservice (bijvoorbeeld yourbb, forum2go, xsBB, actieforum, phpbb3.nl, phpbb.net, enz.) neem dan contact op met het management of de misbruikafdeling van de service die gebruikt wordt. Vergeet niet dat de phpBB-groep <strong>absoluut geen verantwoordelijkheid</strong> heeft en kan dus op geen enkele manier verantwoordelijk worden gehouden, over hoe en waar dit forum wordt gebruikt. Neem geen contact op met de phpBB-groep over enige juridische (beëindiging, verantwoordelijkheid, beledigende opmerkingen, etc.) zaken <strong>die niet direct gerelateerd zijn</strong> aan de phpBB.com-website of de phpBB-software zelf. Als u de phpBB-groep mailt <strong>over een derde partij</strong> die deze software gebruikt, dan kunt u een verlate reactie of helemaal geen reactie verwachten.'
 	)
 );
 
