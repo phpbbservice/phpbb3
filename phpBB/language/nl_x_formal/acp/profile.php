@@ -130,6 +130,8 @@ $lang = array_merge($lang, array(
 
 	'SAVE'							=> 'Opslaan',
 	'SECOND_OPTION'					=> 'Tweede optie',
+	'SHOW_NOVALUE_FIELD'      		=> 'Veld weergeven wanneer er geen waarde is geselecteerd.',
+	'SHOW_NOVALUE_FIELD_EXPLAIN'  	=> 'Bepaald of het profielveld moet worden weergegeven als er geen waarde is geselecteerd voor optionele velden of als er geen waarde is geselecteerd voor verplichte velden.',  	
 	'STEP_1_EXPLAIN_CREATE'			=> 'Hier kunt u de eerste basisparameters invoeren van uw nieuwe profielveld. Deze informatie is nodig voor de tweede stap, waar u de overgebleven opties kunt instellen en uw profielveld verder kan aanpassen.',
 	'STEP_1_EXPLAIN_EDIT'			=> 'Hier kunt u de basisparameters van uw profielveld wijzigen. De relevante opties worden herberekend bij de volgende stap.',
 	'STEP_1_TITLE_CREATE'			=> 'Profielveld toevoegen',
