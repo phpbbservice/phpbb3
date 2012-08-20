@@ -137,7 +137,7 @@ $lang = array_merge($lang, array(
 	'IMAGESET_EXPORT_EXPLAIN'	=> 'Hier kan je een afbeeldingset exporteren in een vorm van een archief. Dit archief zal alle nodige data bevatten die nodig is om de set van afbeeldingen te installeren op een ander forum. Je mag selecteren of je het bestand direct wilt downloaden of dat je het laten plaatsen in jouw store-map zodat je het later zelf kan downloaden of via de FTP.',
 	'IMAGESET_EXPORTED'			=> 'De afbeeldingset is succesvol geëxporteerd en opgeslagen in %s.',
 	'IMAGESET_NAME'				=> 'Naam van de afbeeldingset',
-	'IMAGESET_REFRESHED'		=> 'De afbeeldingset is succesvol vernieuwt.',
+	'IMAGESET_REFRESHED'		=> 'Het vernieuwen van de afbeeldingset is gelukt.',
 	'IMAGESET_UPDATED'			=> 'Afbeeldingset is succesvol bijgewerkt.',
 	'ITALIC'					=> 'Cursief',
 
@@ -398,7 +398,7 @@ $lang = array_merge($lang, array(
 	'TEMPLATE_LOCATION_EXPLAIN'	=> 'Afbeeldingen zijn altijd opgeslagen in het bestandssysteem.',
 	'TEMPLATE_NAME'				=> 'Templatenaam',
 	'TEMPLATE_FILE_NOT_WRITABLE'=> 'Het was niet mogelijk om te schrijven naar het %s templatebestand. Controleer de permissies voor de directory en de bestanden.',
-	'TEMPLATE_REFRESHED'		=> 'De template is succesvol vernieuwt.',
+	'TEMPLATE_REFRESHED'		=> 'Het vernieuwen van de template is gelukt.',
 
 	'THEME_ADDED'				=> 'Nieuw thema toegevoegd op het bestandssysteem.',
 	'THEME_ADDED_DB'			=> 'Nieuw thema toegevoegd op de database.',
@@ -424,8 +424,8 @@ $lang = array_merge($lang, array(
 	'THEME_LOCATION'			=> 'Stylesheet opslaan in',
 	'THEME_LOCATION_EXPLAIN'	=> 'Afbeeldingen zijn altijd opgeslagen in het bestandssysteem.',
 	'THEME_NAME'				=> 'Themanaam',
-	'THEME_REFRESHED'			=> 'Het thema is succesvol vernieuwt.',
-	'THEME_UPDATED'				=> 'Het thema is succesvol bijgewerkt.',
+	'THEME_REFRESHED'			=> 'Het vernieuwen van het thema is gelukt.',
+	'THEME_UPDATED'				=> 'Het bijwerken van het thema is gelukt.',
 
 	'UNDERLINE'				=> 'Onderstrepen',
 	'UNINSTALLED_IMAGESET'	=> 'Ongeïnstalleerde afbeeldingsets',

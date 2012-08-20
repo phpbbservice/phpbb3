@@ -393,6 +393,7 @@ $lang = array_merge($lang, array(
 	'RULE_ADDED'						=> 'Regel succesvol toegevoegd',
 	'RULE_ALREADY_DEFINED'				=> 'Deze regel was vorige keer al opgegeven.',
 	'RULE_DELETED'						=> 'Regel succesvol verwijderd.',
+	'RULE_LIMIT_REACHED'				=> 'Je hebt het maximum aantal regels bereikt. Je kan geen PB-regels meer toevoegen.',	
 	'RULE_NOT_DEFINED'					=> 'Regel niet correct opgegeven.',
 	'RULE_REMOVED_MESSAGE'				=> 'Eén privébericht is verwijderd door de privéberichtenfilters.',
 	'RULE_REMOVED_MESSAGES'				=> '%d privéberichten zijn verwijderd door de privéberichtenfilters.',
