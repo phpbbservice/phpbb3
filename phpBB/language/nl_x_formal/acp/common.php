@@ -348,7 +348,7 @@ $lang = array_merge($lang, array(
 	'NUMBER_USERS'		=> 'Aantal gebruikers',
 	'NUMBER_ORPHAN'		=> 'Berichtloze bijlagen',
 	
-	'PHP_VERSION_OLD'	=> 'De versie van PHP op deze server zal niet langer worden ondersteunt door nieuwere versies van phpBB. %sKlik hier voor meer informatie%s.', // nieuwere, toekomstige ??
+	'PHP_VERSION_OLD'	=> 'De PHP-versie op deze server zal niet meer worden ondersteund door nieuwere versies van phpBB %sKlik hier voor meer informatie%s.',
 
 	'POSTS_PER_DAY'		=> 'Berichten per dag',
 
