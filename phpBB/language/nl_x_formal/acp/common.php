@@ -291,7 +291,7 @@ $lang = array_merge($lang, array(
 
 // PHP info
 $lang = array_merge($lang, array(
-	'ACP_PHP_INFO_EXPLAIN'	=> 'Deze pagina weergeeft informatie over de geïnstalleerde PHP-versie op deze server. Het weergeeft onder andere de standaardinstellingen, geladen modules en beschikbare variabelen. Deze informatie kan handig zijn als u een probleem wilt achterhalen. Vergeet niet dat sommige hosting bedrijven, een limiet kunnen hebben om bepaalde informatie te kunnen weergeven i.v.m. veiligheidsredenen. Wij raden u aan om niet iedereen de informatie te geven, tenzij het gevraagd wordt door één van de <a href="http://over.phpbbservice.nl/team/">phpBBservice.nl teamleden</a> op de supportforums.',
+	'ACP_PHP_INFO_EXPLAIN'	=> 'Deze pagina weergeeft informatie over de geïnstalleerde PHP-versie op deze server. Het weergeeft onder andere de standaardinstellingen, geladen modules en beschikbare variabelen. Deze informatie kan handig zijn als u een probleem wilt achterhalen. Vergeet niet dat sommige hosting bedrijven, een limiet kunnen hebben om bepaalde informatie te kunnen weergeven i.v.m. veiligheidsredenen. Wij raden u aan om niet iedereen de informatie te geven, tenzij het gevraagd wordt door één van de <a href="http://www.phpbbservice.nl/over/team/">phpBBservice.nl teamleden</a> op de supportforums.',
 
 	'NO_PHPINFO_AVAILABLE'	=> 'Informatie over uw PHP-configuratie kan niet worden verkregen. phpinfo() is uitgeschakeld i.v.m. veiligheidsredenen.',
 ));
