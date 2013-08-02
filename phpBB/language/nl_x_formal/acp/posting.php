@@ -82,7 +82,8 @@ $lang = array_merge($lang, array(
 		'NUMBER'		=> 'Een serie van cijfers.',
 		'EMAIL'			=> 'Een geldig e-mailadres.',
 		'URL'			=> 'Een geldige URL die een protocol gebruikt (http, ftp, etc… kunnen niet worden gebruikt wegens javascript veiligheidslekken). Als er niks is opgegeven zal “http://” worden toegevoegd aan de reeks.',
-		'LOCAL_URL'		=> 'Een lokale URL. De URL moet relatief zijn naar de onderwerppagina en kan niet een server-naam of een protocol bevatten.',
+		'LOCAL_URL'		=> 'Een lokale URL. De URL moet relatief zijn naar de onderwerppagina en kan niet een server-naam of een protocol bevatten, links worden gekenmerkt met “%s”.',
+		'RELATIVE_URL'	=> 'Een relatieve URL. U kunt dit gebruiken om delen te laten herleiden naar een URL, maar wees voorzichtig: een volledige URL is een geldige relatieve URL. Wanneer u relatieve URLs wilt gebruiken op uw forum, gebruik dan de LOCAL_URL token.',
 		'COLOR'			=> 'Een HTML-kleur, die kan op worden gegeven via een digitale manier <samp>#FF1234</samp> of via een <a href="http://www.w3.org/TR/CSS21/syndata.html#value-def-color">CSS-kleuren trefwoord</a> zoals <samp>fuchsia</samp> of <samp>InactiveBorder</samp>.'
 	)
 ));

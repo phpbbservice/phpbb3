@@ -2,7 +2,7 @@ Subject: Nieuw bericht in forum - "{FORUM_NAME}"
 
 Hallo {USERNAME},
 
-U ontvangt dit bericht omdat u bent geabonneerd op het forum "{FORUM_NAME}" op "{SITENAME}". Dit forum heeft een nieuwe reactie ontvangen in het onderwerp "{TOPIC_TITLE}" sinds uw laatste bezoek. U kunt de volgende link gebruiken om de laatst ongelezen reactie te bekijken, er zullen geen berichten meer worden verstuurd totdat u het onderwerp heeft bezocht.
+U ontvangt dit bericht omdat u bent geabonneerd op het forum "{FORUM_NAME}" op "{SITENAME}". Dit forum heeft een nieuwe reactie ontvangen in het onderwerp "{TOPIC_TITLE}"<!-- IF AUTHOR_NAME --> by {AUTHOR_NAME}<!-- ENDIF --> sinds uw laatste bezoek. U kunt de volgende link gebruiken om de laatst ongelezen reactie te bekijken, er zullen geen berichten meer worden verstuurd totdat u het onderwerp heeft bezocht.
 
 {U_NEWEST_POST}
 

@@ -52,7 +52,7 @@ $lang = array_merge($lang, array(
 	'DELETING_INDEX_IN_PROGRESS_EXPLAIN'	=> 'De zoekmethode is momenteel de index aan het opschonen. Dit kan enige minuten in beslag nemen.',
 
 	'FULLTEXT_MYSQL_INCOMPATIBLE_VERSION'	=> 'De MySQL-fulltext methode kan alleen worden gebruikt met MySQL4 en hoger.',
-	'FULLTEXT_MYSQL_NOT_MYISAM'				=> 'De MySQL-fulltext index kan alleen worden gebruikt met MyISAM-tabellen.',
+	'FULLTEXT_MYSQL_NOT_SUPPORTED'			=> 'De MySQL-fulltext index kan alleen worden gebruikt met MyISAM- of InnoDB tabellen. MySQL 5.6.4 of hoger is nodig voor fulltext index op InnoDB-tabellen.',	
 	'FULLTEXT_MYSQL_TOTAL_POSTS'			=> 'Aantal geïndexeerde berichten',
 	'FULLTEXT_MYSQL_MBSTRING'				=> 'Ondersteuning voor niet-Latijnse UTF-8 tekens die gebruik maken van de mbstring:',
 	'FULLTEXT_MYSQL_PCRE'					=> 'Ondersteuning voor niet-Latijnse UTF-8 tekens die gebruik maken van PCRE:',

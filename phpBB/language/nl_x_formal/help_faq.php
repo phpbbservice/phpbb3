@@ -328,11 +328,11 @@ $help = array(
 	),
 	array(
 		0 => 'Wie heeft deze forumsoftware geschreven?',
-		1 => 'Deze software (in oorspronkelijke vorm) is gemaakt, uitgebracht en is eigendom van de <a href="http://www.phpbb.com/">phpBB-groep</a> en vertaald naar het Nederlands door <a href="http://www.phpbbservice.nl/">phpBBservice.nl</a>. Het is beschikbaar gesteld onder de GNU General Public License en mag vrij worden verspreid. Zie de link voor meer informatie.'
+		1 => 'Deze software (in oorspronkelijke vorm) is gemaakt, uitgebracht en is eigendom van de <a href="https://www.phpbb.com/">phpBB-groep</a> en vertaald naar het Nederlands door <a href="http://www.phpbbservice.nl/">phpBBservice.nl</a>. Het is beschikbaar gesteld onder de GNU General Public License en mag vrij worden verspreid. Zie de link voor meer informatie.'
 	),
 	array(
 		0 => 'Waarom is een bepaalde functie niet beschikbaar?',
-		1 => 'Deze software is geschreven en eigendom van de phpBB-groep. Als u denkt dat er een functie moet worden toegevoegd of u wilt een bug melden, bezoek dan de phpBB <a href="http://area51.phpbb.com/">Area51</a> website, waar u alle nodige informatie erover vindt.'
+		1 => 'Deze software is geschreven en eigendom van de phpBB-groep. Als u denkt dat er een functie moet worden toegevoegd bezoek dan het <a href="https://www.phpbb.com/ideas/">phpBB ideeëncentrum</a>, waar u kunt stemmen op bestaande ideeën of nieuwe functies kunt voorstellen.'
 	),
 	array(
 		0 => 'Met wie neem ik contact op over ongewenste en/of illegale zaken die gerelateerd zijn aan dit forum?',

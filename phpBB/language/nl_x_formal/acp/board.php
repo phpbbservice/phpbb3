@@ -52,7 +52,7 @@ $lang = array_merge($lang, array(
 	'SYSTEM_TIMEZONE'               => 'Tijdzone voor gasten',
 	'SYSTEM_TIMEZONE_EXPLAIN'       => 'De tijdzone die gebruikt wordt voor de tijd te laten weergeven aan gebruikers die niet zijn aangemeld (gasten, bots). Aangemelde gebruikers kunnen hun tijdzone die ze tijdens het registratieproces hebben ingesteld wijzigen in hun gebruikerspaneel.',
 	'WARNINGS_EXPIRE'				=> 'Waarschuwingsduur',
-	'WARNINGS_EXPIRE_EXPLAIN'		=> 'Aantal dagen wanneer de waarschuwing zal verlopen, de gebruikerswaarschuwing zal dan automatisch worden verwijderd. Zet deze waarde op 0 om waarschuwing permanent te maken.',
+	'WARNINGS_EXPIRE_EXPLAIN'		=> 'Aantal dagen wanneer een waarschuwing zal verlopen, de gebruikerswaarschuwing zal dan automatisch worden verwijderd. Zet deze waarde op 0 om waarschuwing permanent te maken.',
 ));
 
 // Board Features
