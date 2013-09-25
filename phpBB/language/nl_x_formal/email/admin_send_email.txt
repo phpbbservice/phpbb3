@@ -10,5 +10,4 @@ Bericht dat naar u verzonden is:
 
 {MESSAGE}
 
-
 {EMAIL_SIG}

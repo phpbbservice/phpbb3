@@ -2,11 +2,11 @@ Subject: Nieuw onderwerp in forum - "{FORUM_NAME}"
 
 Hallo {USERNAME},
 
-U ontvangt dit bericht omdat u geabonneerd bent op het forum "{FORUM_NAME}" op "{SITENAME}". Sinds u laatste bezoek is er in het forum een nieuw onderwerp<!-- IF AUTHOR_NAME !== '' --> door {AUTHOR_NAME}<!-- ENDIF --> geplaatst, namelijk "{TOPIC_TITLE}". U kunt de volgende link gebruiken om het forum te bekijken, er zullen geen berichten meer worden verstuurd totdat u het forum heeft bezocht.
+U ontvangt dit bericht omdat u geabonneerd bent op het forum "{FORUM_NAME}" op "{SITENAME}". Sinds u laatste bezoek is er in het forum het nieuwe onderwerp "{TOPIC_TITLE}" geplaatst<!-- IF AUTHOR_NAME !== '' --> door {AUTHOR_NAME}<!-- ENDIF -->. U kunt de volgende link gebruiken om het forum te bekijken, er zullen geen berichten meer worden verstuurd totdat u het forum heeft bezocht.
 
 {U_FORUM}
 
-Als u niet langer meer geabonneerd wilt zijn op dit forum, kunt u klikken op de link "Abonnement op dit forum stopzetten", die u kunt vinden in het forum hierboven of door op de volgende link te klikken:
+Als u niet langer meer geabonneerd wilt zijn op dit forum, kunt u klikken op de volgende link:
 
 {U_STOP_WATCHING_FORUM}
 

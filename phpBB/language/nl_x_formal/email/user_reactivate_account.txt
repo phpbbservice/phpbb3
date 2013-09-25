@@ -15,5 +15,4 @@ Bezoek de volgende link om uw account te heractiveren:
 
 {U_ACTIVATE}
 
-
 {EMAIL_SIG}

@@ -2,7 +2,7 @@ Subject: Onderwerp afgekeurd - "{TOPIC_TITLE}"
 
 Hallo {USERNAME},
 
-U ontvangt dit bericht omdat uw onderwerp "{TOPIC_TITLE}" op "{SITENAME}" is afgekeurd door een moderator of beheerder.
+U ontvangt dit bericht omdat uw onderwerp "{TOPIC_TITLE}" op "{SITENAME}" is afgekeurd door een beheerder of moderator.
 
 De volgende reden is gegeven voor de afkeuring:
 

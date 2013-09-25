@@ -2,9 +2,10 @@ Subject: Onderwerp goedgekeurd - "{TOPIC_TITLE}"
 
 Hallo {USERNAME},
 
-U ontvangt dit bericht omdat uw onderwerp "{TOPIC_TITLE}" op "{SITENAME}" is goedgekeurd door een moderator of beheerder.
+U ontvangt dit bericht omdat uw onderwerp "{TOPIC_TITLE}" op "{SITENAME}" is goedgekeurd door een beheerder of moderator.
 
 Als u het onderwerp wilt bekijken, klik dan op de volgende link:
+
 {U_VIEW_TOPIC}
 
 

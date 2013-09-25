@@ -14,7 +14,6 @@ Bezoek de volgende link om uw account te activeren:
 
 {U_ACTIVATE}
 
-
 Bedankt voor uw registratie.
 
 {EMAIL_SIG}

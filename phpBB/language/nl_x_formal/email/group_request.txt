@@ -1,6 +1,6 @@
-Subject: Een aanvraag om lid te worden van een groep die u beheerd is gemaakt
+Subject: Iemand wil lid worden van uw groep
 
-Beste {USERNAME},
+Hallo {USERNAME},
 
 De gebruiker "{REQUEST_USERNAME}" heeft een lidmaatschap aangevraagd van de groep "{GROUP_NAME}" die u beheerd op "{SITENAME}".
 Om deze aanvraag voor het groepslidmaatschap goed of af te keuren bezoekt u de volgende link:
