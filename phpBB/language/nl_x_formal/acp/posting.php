@@ -112,7 +112,7 @@ $lang = array_merge($lang, array(
 	'EDIT_SMILIES'				=> 'Smileys wijzigen',
 	'EMOTION'					=> 'Emotie',
 	'EXPORT_ICONS'				=> 'Icons.pak exporteren en downloaden',
-	'EXPORT_ICONS_EXPLAIN'		=> '%sWanneer u op deze link klikt, zal de configuratie van uw geïnstalleerde pictogrammen worden ingepakt in <samp>icons.pak</samp>. Wanneer u het download kan het worden gebruikt om een <samp>.zip</samp> of <samp>.tgz</samp> bestand aan te maken, het zal al uw pictogrammen bevatten plus het <samp>icons.pak</samp> configuratiebestand%s.%s',
+	'EXPORT_ICONS_EXPLAIN'		=> '%sWanneer u op deze link klikt, zal de configuratie van uw geïnstalleerde pictogrammen worden ingepakt in <samp>icons.pak</samp>. Wanneer u het download kan het worden gebruikt om een <samp>.zip</samp> of <samp>.tgz</samp> bestand aan te maken, het zal al uw pictogrammen bevatten plus het <samp>icons.pak</samp> configuratiebestand%s.',
 	'EXPORT_SMILIES'			=> 'Smilies.pak exporteren en downloaden',
 	'EXPORT_SMILIES_EXPLAIN'	=> '%sWanneer u op deze link klikt, zal de configuratie van uw geïnstalleerde smileys worden ingepakt in <samp>smilies.pak</samp>. Wanneer u het download kan het worden gebruikt om een <samp>.zip</samp> of <samp>.tgz</samp> bestand aan te maken, het zal al uw smileys bevatten plus het <samp>smilies.pak</samp> configuratiebestand.%s',
 
