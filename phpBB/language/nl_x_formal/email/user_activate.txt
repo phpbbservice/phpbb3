@@ -4,7 +4,7 @@ Hallo {USERNAME},
 
 Uw account op "{SITENAME}" is gedeactiveerd, dat gebeurt meestal als u wijzigingen hebt aangebracht aan uw profiel. 
 
-Om uw account te heractiveren moet u op de link hieronder klikken:
+Bezoek de volgende link om u account te heractiveren:
 
 {U_ACTIVATE}
 

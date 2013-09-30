@@ -2,7 +2,11 @@ Subject: Nieuw onderwerp in forum - "{FORUM_NAME}"
 
 Hallo {USERNAME},
 
-U ontvangt dit bericht omdat u geabonneerd bent op het forum "{FORUM_NAME}" op "{SITENAME}". Sinds u laatste bezoek is er in het forum het nieuwe onderwerp "{TOPIC_TITLE}" geplaatst<!-- IF AUTHOR_NAME !== '' --> door {AUTHOR_NAME}<!-- ENDIF -->. U kunt de volgende link gebruiken om het forum te bekijken, er zullen geen berichten meer worden verstuurd totdat u het forum heeft bezocht.
+U ontvangt dit bericht omdat u geabonneerd bent op het forum "{FORUM_NAME}" op "{SITENAME}". 
+Sinds u laatste bezoek is er in het forum het nieuwe onderwerp "{TOPIC_TITLE}" geplaatst<!-- IF AUTHOR_NAME !== '' --> door {AUTHOR_NAME}<!-- ENDIF -->. 
+Er zullen geen berichten meer worden verstuurd totdat u het forum heeft bezocht.
+
+U kunt de volgende link gebruiken om het forum te bekijken:
 
 {U_FORUM}
 
