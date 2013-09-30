@@ -2,17 +2,22 @@ Subject: Nieuwe reactie in onderwerp - "{TOPIC_TITLE}"
 
 Hallo {USERNAME},
 
-U ontvangt dit bericht omdat u bent geabonneerd op het onderwerp "{TOPIC_TITLE}" op "{SITENAME}". Dit onderwerp heeft een nieuwe reactie ontvangen<!-- IF AUTHOR_NAME !== '' --> door {AUTHOR_NAME}<!-- ENDIF --> sinds uw laatste bezoek. u kunt de volgende link gebruiken om de reacties te bekijken die er zijn gemaakt, er zullen geen berichten meer worden verstuurd totdat u het onderwerp heeft bezocht.
+U ontvangt dit bericht omdat u bent geabonneerd op het onderwerp "{TOPIC_TITLE}" op "{SITENAME}". 
+Dit onderwerp heeft een nieuwe reactie ontvangen<!-- IF AUTHOR_NAME !== '' --> door {AUTHOR_NAME}<!-- ENDIF --> sinds uw laatste bezoek. 
+U kunt de volgende link gebruiken om de reacties te bekijken die er zijn gemaakt, er zullen geen berichten meer worden verstuurd totdat u het onderwerp heeft bezocht.
 
 Als u het nieuwste bericht wilt bekijken, klik dan op de volgende link:
+
 
 {U_NEWEST_POST}
 
 Als u het onderwerp wilt bekijken, klik dan op de volgende link:
 
+
 {U_TOPIC}
 
 Als u het forum wilt bekijken, klik dan op de volgende link:
+
 
 {U_FORUM}
 
@@ -21,3 +26,4 @@ Als u niet langer meer geabonneerd wilt zijn op dit onderwerp kunt u klikken op 
 {U_STOP_WATCHING_TOPIC}
 
 {EMAIL_SIG}
+

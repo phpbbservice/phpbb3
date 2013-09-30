@@ -1,7 +1,8 @@
 
 Hallo {TO_USERNAME},
 
-Het volgende bericht is verzonden naar u door {FROM_USERNAME} naar uw account op "{SITENAME}". Als dit bericht ongewenste of aanstootgevende inhoud bevat neem dan contact op met de beheerder van het forum op het volgende adres:
+Het volgende bericht is verzonden naar u door {FROM_USERNAME} naar uw account op "{SITENAME}". 
+Als dit bericht ongewenste of aanstootgevende inhoud bevat neem dan contact op met de beheerder van het forum op het volgende adres:
 
 {BOARD_CONTACT}
 
@@ -11,3 +12,4 @@ Bericht dat verzonden is:
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 {MESSAGE}
+

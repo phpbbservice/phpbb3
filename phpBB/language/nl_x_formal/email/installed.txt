@@ -14,6 +14,8 @@ Forumadres: {U_BOARD}
 
 Belangrijke informatie over de phpBB-software kunt u vinden in de docs-map van uw installatie en op de Nederlandstalige phpBB website http://www.phpBBservice.nl
 
-Om uw forum veilig te houden, raden wij u altijd aan dat u uw forum bijwerkt zodra er een nieuwe versie is uitgebracht. Om alles makkelijk en overzichtelijk te houden voor u is er een nieuwsbrief beschikbaar op de ondersteuningspagina van phpBB.com, of u kunt u ook abonneren op de phpBBservice.nl RSS-feed; http://www.phpbbservice.nl/forum/feed.php?mode=news
+Om uw forum veilig te houden, raden wij u altijd aan dat u uw forum bijwerkt zodra er een nieuwe versie is uitgebracht. 
+Om alles makkelijk en overzichtelijk te houden voor u is er een nieuwsbrief beschikbaar op de ondersteuningspagina van phpBB.com, of u kunt u ook abonneren op de phpBBservice.nl RSS-feed; http://www.phpbbservice.nl/forum/feed.php?mode=news
 
 {EMAIL_SIG}
+

@@ -8,6 +8,8 @@ U ontvangt dit bericht omdat u geabonneerd bent op het forum "{FORUM_NAME}" op "
 
 Als u niet langer meer geabonneerd wilt zijn op dit forum, kunt u klikken op de volgende link:
 
+
 {U_STOP_WATCHING_FORUM}
 
 {EMAIL_SIG}
+

@@ -15,3 +15,4 @@ Een bericht van {FROM_USERNAME} kan hieronder ook bijgevoegd zijn. Vergeet niet 
 ----------
 
 {MESSAGE}
+

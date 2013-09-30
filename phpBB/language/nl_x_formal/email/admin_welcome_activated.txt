@@ -7,3 +7,4 @@ Uw account op "{SITENAME}" is geactiveerd door een beheerder, u mag u nu aanmeld
 Uw wachtwoord is veilig opgeslagen in onze database en kan niet worden achterhaald. Mocht u toch uw wachtwoord vergeten zijn, dan kunt u een nieuw wachtwoord aanvragen door het e-mailadres te gebruiken dat overeenkomt met uw account.
 
 {EMAIL_SIG}
+

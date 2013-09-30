@@ -6,7 +6,8 @@ U ontvangt dit bericht omdat uw onderwerp "{TOPIC_TITLE}" op "{SITENAME}" is goe
 
 Als u het onderwerp wilt bekijken, klik dan op de volgende link:
 
+
 {U_VIEW_TOPIC}
 
-
 {EMAIL_SIG}
+

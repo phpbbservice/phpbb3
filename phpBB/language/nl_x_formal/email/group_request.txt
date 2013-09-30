@@ -3,8 +3,10 @@ Subject: Iemand wil lid worden van uw groep
 Hallo {USERNAME},
 
 De gebruiker "{REQUEST_USERNAME}" heeft een lidmaatschap aangevraagd van de groep "{GROUP_NAME}" die u beheerd op "{SITENAME}".
+
 Om deze aanvraag voor het groepslidmaatschap goed of af te keuren bezoekt u de volgende link:
 
 {U_PENDING}
 
 {EMAIL_SIG}
+

@@ -8,8 +8,11 @@ U heeft een nieuw privébericht ontvangen van "{AUTHOR_NAME}" op "{SITENAME}" me
 
 U kunt uw nieuwe privébericht bekijken door te klikken op de volgende link:
 
+
 {U_VIEW_MESSAGE}
 
-U heeft het zo ingesteld dat u een bericht wilt ontvangen bij nieuwe privéberichten, vergeet niet dat u het altijd zo in kan stellen dat u wel of geen berichten wilt ontvangen bij nieuwe privéberichten, dat kunt u doen door de juiste instellingen te wijzigen in uw profiel.  
+U heeft het zo ingesteld dat u een bericht wilt ontvangen bij nieuwe privéberichten.
+Vergeet niet dat u het altijd zo in kan stellen dat u wel of geen berichten wilt ontvangen bij nieuwe privéberichten, dat kunt u doen door de juiste instellingen te wijzigen in uw profiel.  
 
 {EMAIL_SIG}
+

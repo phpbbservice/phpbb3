@@ -5,3 +5,4 @@ Hallo {USERNAME},
 U ontvangt dit bericht omdat de melding die u had ingevuld over het bericht "{POST_SUBJECT}" in "{TOPIC_TITLE}" op "{SITENAME}" is verwijderd door een beheerder of moderator.
 
 {EMAIL_SIG}
+

@@ -247,7 +247,7 @@ $lang = array_merge($lang, array(
 	'TRACE_RESULT'							=> 'Tracerings resultaat',
 	'TRACE_SETTING'							=> 'Traceringsinstelling',
 
-	'TRACE_USER_GLOBAL_YES_TOTAL_YES'		=> 'De forum onafhankelijke gebruikerspermissies evalueren naar <samp>JA/samp>, maar de totale permissie is al ingesteld op <samp>JA</samp>, dus het totale resultaat blijft behouden. %sGlobale permissie traceren%s',
+	'TRACE_USER_GLOBAL_YES_TOTAL_YES'		=> 'De forum onafhankelijke gebruikerspermissies evalueren naar <samp>JA</samp>, maar de totale permissie is al ingesteld op <samp>JA</samp>, dus het totale resultaat blijft behouden. %sGlobale permissie traceren%s',
 	'TRACE_USER_GLOBAL_YES_TOTAL_NEVER'		=> 'De forum onafhankelijke gebruikerspermissies evalueren naar <samp>JA</samp>, wat het huidige lokale <samp>NOOIT</samp> resultaat zal overschrijven. %sGlobale permissie traceren%s',
 	'TRACE_USER_GLOBAL_NEVER_TOTAL_KEPT'	=> 'De forum onafhankelijke gebruikerspermissies evalueren naar <samp>NOOIT</samp>, wat geen invloed heeft op de lokale permissie. %sGlobale permissie traceren%s',
 
