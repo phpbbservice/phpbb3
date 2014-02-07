@@ -256,7 +256,7 @@ $lang = array_merge($lang, array(
 	'ONLY_TOPIC'			=> 'Alleen onderwerp “%s”',
 	'OTHER_USERS'			=> 'Andere gebruikers die plaatsen van dit IP',
 
-	'QUICKMOD_ACTION_NOT_ALLOWED' => "%s niet toegestaan als quickmod",
+	'QUICKMOD_ACTION_NOT_ALLOWED' => '%s niet toegestaan als quickmod',
 
 	'PM_REPORT_CLOSED_SUCCESS'	=> 'De geselecteerde PB melding is succesvol gesloten.',
 	'PM_REPORT_DELETED_SUCCESS'	=> 'De geselecteerde PB melding is succesvol verwijderd.',

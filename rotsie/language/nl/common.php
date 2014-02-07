@@ -226,7 +226,7 @@ $lang = array_merge($lang, array(
 	'EXTENSION_DOES_NOT_EXIST'			=> 'De extensie <strong>%s</strong> bestaat niet.',
 
 	'FAQ'					=> 'FAQ',
-	'FAQ_EXPLAIN'			=> 'Vaak gestelde vragen',
+	'FAQ_EXPLAIN'			=> 'Meest gestelde vragen',
 	'FILENAME'				=> 'Bestandsnaam',
 	'FILESIZE'				=> 'Bestandsgrootte',
 	'FILEDATE'				=> 'Bestandsdatum',
