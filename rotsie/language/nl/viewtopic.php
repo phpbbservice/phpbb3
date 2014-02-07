@@ -49,7 +49,7 @@ $lang = array_merge($lang, array(
 
 	'CODE'					=> 'Code',
 
-	'DELETE_TOPIC'			=> 'Verwijder onderwerp',
+	'DELETE_TOPIC'			=> 'Onderwerp verwijderen',
 	'DELETED_INFORMATION'	=> 'Verwijderd door %1$s op %2$s',
 	'DISAPPROVE'					=> 'Afkeuren',
 	'DOWNLOAD_NOTICE'		=> 'Je hebt niet de benodigde permissies om de bijlagen te bekeken van dit bericht.',
@@ -62,11 +62,11 @@ $lang = array_merge($lang, array(
 	'ERROR_NO_ATTACHMENT'	=> 'De geselecteerde bijlage bestaat niet meer.',
 
 	'FILE_NOT_FOUND_404'	=> 'Het bestand <strong>%s</strong> bestaat niet meer.',
-	'FORK_TOPIC'			=> 'Kopieer onderwerp',
+	'FORK_TOPIC'			=> 'Onderwerp kopiëren',
 	'FULL_EDITOR'			=> 'Volledige bewerker &amp; Voorbeeld',
 
 	'LINKAGE_FORBIDDEN'		=> 'Je hebt niet de authorisatie om van of naar deze site te koppelen, downloaden of te bekijken.',
-	'LOGIN_NOTIFY_TOPIC'	=> 'Je bent op de hoofte gebracht van dit onderwerp, meld je aan om het te bekijken.',
+	'LOGIN_NOTIFY_TOPIC'	=> 'Je bent op de hoogte gebracht van dit onderwerp, meld je aan om het te bekijken.',
 	'LOGIN_VIEWTOPIC'		=> 'De site benodigd je dat je aangemeld en geregistreerd bent om dit onderwerp te kunnen bekijken.',
 
 	'MAKE_ANNOUNCE'				=> 'Verander naar “Aankondiging”',
@@ -78,7 +78,7 @@ $lang = array_merge($lang, array(
 		2	=> 'Je mag tot <strong>%d</strong> opties selecteren',
 	),
 	'MISSING_INLINE_ATTACHMENT'	=> 'De bijlage <strong>%s</strong> is niet meer beschikbaar',
-	'MOVE_TOPIC'				=> 'Verplaats onderwerp',
+	'MOVE_TOPIC'				=> 'Onderwerp verplaatsen',
 
 	'NO_ATTACHMENT_SELECTED'=> 'Je hebt geen bijlage geselecteerd om te bekijken of om te downloaden.',
 	'NO_NEWER_TOPICS'		=> 'Er zijn geen nieuwere onderwerpen in dit forum.',
@@ -107,7 +107,7 @@ $lang = array_merge($lang, array(
 	'TOPIC_TOOLS'			=> 'Onderwerp gereedschap',
 	'TOTAL_VOTES'			=> 'Totaal aantal stemmen',
 
-	'UNLOCK_TOPIC'			=> 'Open onderwerp',
+	'UNLOCK_TOPIC'			=> 'Onderwerp openen',
 
 	'VIEW_INFO'				=> 'Bericht details',
 	'VIEW_NEXT_TOPIC'		=> 'Volgend onderwerp',
