@@ -149,13 +149,13 @@ $lang = array_merge($lang, array(
 	'MCP_BAN_USERNAMES'			=> 'Verban gebruikersnamen',
 
 	'MCP_LOGS'						=> 'Moderator logs',
-	'MCP_LOGS_FRONT'				=> 'Voorpagina',
+	'MCP_LOGS_FRONT'				=> 'Beginpagina',
 	'MCP_LOGS_FORUM_VIEW'			=> 'Forum logs',
 	'MCP_LOGS_TOPIC_VIEW'			=> 'Onderwerpen logs',
 
 	'MCP_MAIN'						=> 'Hoofd',
 	'MCP_MAIN_FORUM_VIEW'			=> 'Bekijk forum',
-	'MCP_MAIN_FRONT'				=> 'Voorpagina',
+	'MCP_MAIN_FRONT'				=> 'Beginpagina',
 	'MCP_MAIN_POST_DETAILS'			=> 'Berichtendetails',
 	'MCP_MAIN_TOPIC_VIEW'			=> 'Bekijk onderwerp',
 	'MCP_MAKE_ANNOUNCEMENT'			=> 'Wijzig naar “Aankondiging”',
@@ -176,7 +176,7 @@ $lang = array_merge($lang, array(
 	'MCP_MAKE_NORMALS_CONFIRM'		=> 'Weet je zeker dat je de geselecteerde onderwerpen wilt veranderen naar “Standaard onderwerpen”?',
 
 	'MCP_NOTES'						=> 'Gebruikernotities',
-	'MCP_NOTES_FRONT'				=> 'Voorpagina',
+	'MCP_NOTES_FRONT'				=> 'Beginpagina',
 	'MCP_NOTES_USER'				=> 'Gebruikerdetails',
 
 	'MCP_POST_REPORTS'				=> 'Meldingen uitgegeven op dit bericht',
@@ -209,14 +209,14 @@ $lang = array_merge($lang, array(
 	'MCP_VIEW_USER'			=> 'Bekijk waarschuwingen van een specifieke gebruiker',
 
 	'MCP_WARN'				=> 'Waarschuwingen',
-	'MCP_WARN_FRONT'		=> 'Voorpagina',
+	'MCP_WARN_FRONT'		=> 'Beginpagina',
 	'MCP_WARN_LIST'			=> 'Lijst waarschuwingen',
 	'MCP_WARN_POST'			=> 'Waarschuw vanwege specifiek bericht',
 	'MCP_WARN_USER'			=> 'Waarschuw gebruiker',
 
 	'MERGE_POSTS_CONFIRM'	=> 'Weet je zeker dat je de geselecteerde berichten wilt verplaatsen?',
 	'MERGE_TOPIC_EXPLAIN'	=> 'Door het formulier hieronder te gebruiken, kan je de geselecteerde berichten verplaatsen naar een ander onderwerp. De berichten zullen gesplitst worden van dit onderwerp en samengevoegd worden met het andere onderwerp. Deze berichten zullen niet opnieuw gesorteerd worden en zullen voorkomen als of de gebruiker ze geplaatst heeft in het nieuwe onderwerp.<br />Vul de doel onderwerp ID in of klik op “Selecteer onderwerp” om naar één te zoeken.',
-	'MERGE_TOPIC_ID'		=> 'Doel onderwerp indentificatie nummer',
+	'MERGE_TOPIC_ID'		=> 'Doel onderwerp identificatie nummer',
 	'MERGE_TOPICS'			=> 'Onderwerpen samenvoegen',
 	'MERGE_TOPICS_CONFIRM'	=> 'Weet je zeker dat je de geselecteerde onderwerpen wilt samenvoegen?',
 	'MODERATE_FORUM'		=> 'Modereer forum',
