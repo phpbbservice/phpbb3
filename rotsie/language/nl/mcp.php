@@ -410,7 +410,7 @@ $lang = array_merge($lang, array(
 	'WARNING_PM_BODY'		=> 'Het volgende is een waarschuwing welke is uitgevaardigd naar je door een beheerder of moderator van deze site.[quote]%s[/quote]',
 	'WARNING_PM_SUBJECT'	=> 'Forum waarschuwing uitgevaardigd',
 	'WARNING_POST_DEFAULT'	=> 'Dit is een waarschuwing vanwege het volgende bericht dat is geplaatst door je: %s .',
-	'NO_WARNINGS'	=> 'Geen waarschuwingen bestaan.',
+	'NO_WARNINGS'	=> 'Er zijn geen waarschuwingen.',
 
 	'YOU_SELECTED_TOPIC'	=> 'Je hebt geselecteerd onderwerp nummer %d: %s.',
 
