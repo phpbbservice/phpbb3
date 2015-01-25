@@ -653,7 +653,7 @@ $lang = array_merge($lang, array(
 	'TOTAL_USERS_ZERO'		=> 'Geregistreerde gebruikers: <strong>0</strong>',
 	'TRACKED_PHP_ERROR'		=> '%s gevonden PHP-fouten',
 
-	'UNABLE_GET_IMAGE_SIZE'		=> 'Het wat onmogelijk om de afmeting van de afbeelding te bepalen. Controleer of de URL die je hebt ingevoerd juist is.',
+	'UNABLE_GET_IMAGE_SIZE'		=> 'Het wat onmogelijk om de afmeting van de afbeelding te bepalen. Controleer of de URL die u heeft ingevoerd juist is.',
 	'UNABLE_TO_DELIVER_FILE'	=> 'Het bestand kan niet worden afgeleverd.',
 	'UNKNOWN_BROWSER'			=> 'Onbekende browser',
 	'UNMARK_ALL'				=> 'Alle markeringen verwijderen',
