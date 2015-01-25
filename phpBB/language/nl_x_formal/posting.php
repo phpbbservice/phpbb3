@@ -177,6 +177,8 @@ $lang = array_merge($lang, array(
 
 	'QUOTE_DEPTH_EXCEEDED'		=> 'U mag maar %1$d citaten in een ander citaat gebruiken.',
 
+	'REMOTE_UPLOAD_TIMEOUT'		=> 'Het opgegeven bestand kon niet worden geupload doordat tijdens het verzoek een time-out is opgetreden.',
+
 	'SAVE'						=> 'Opslaan',
 	'SAVE_DATE'					=> 'Opslaan als',
 	'SAVE_DRAFT'				=> 'Concept opslaan',
@@ -218,7 +220,7 @@ $lang = array_merge($lang, array(
 	'VIEW_MESSAGE'				=> '%sUw verstuurde bericht bekijken%s',
     'VIEW_PRIVATE_MESSAGE'      => '%sUw verstuurde privébericht bekijken%s',
 
-	'WRONG_FILESIZE'			=> 'Het bestand is te groot, de maximale toegestaande grootte is %1d %2s.',
+	'WRONG_FILESIZE'			=> 'Het bestand is te groot, de maximale toegestaande grootte is %1$d %2$s.',
 	'WRONG_SIZE'				=> 'De afbeelding moet tenminste %1$d pixels breed zijn, %2$d pixels hoog en moet %3$d pixels breed en  %4$d pixels hoog. De geplaatste afbeelding is %5$d pixels breed en %6$d pixels hoog.',
 ));
 

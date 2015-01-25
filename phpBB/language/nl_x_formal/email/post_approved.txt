@@ -15,4 +15,3 @@ Als u het onderwerp wilt bekijken, klik dan op de volgende link:
 {U_VIEW_TOPIC}
 
 {EMAIL_SIG}
-

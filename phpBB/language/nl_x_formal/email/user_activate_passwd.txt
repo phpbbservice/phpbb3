@@ -16,4 +16,3 @@ Wachtwoord: {PASSWORD}
 U kunt dit wachtwoord ook zelf wijzigen op uw profielpagina. Als er enige problemen zich voordoen neem dan contact op met de forumbeheerder.
 
 {EMAIL_SIG}
-

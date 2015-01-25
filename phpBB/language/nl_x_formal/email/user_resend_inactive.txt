@@ -18,4 +18,3 @@ Bezoek de volgende link om uw account te activeren:
 Bedankt voor uw registratie.
 
 {EMAIL_SIG}
-

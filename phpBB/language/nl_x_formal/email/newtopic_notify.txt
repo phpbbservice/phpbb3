@@ -16,4 +16,3 @@ Als u niet langer meer geabonneerd wilt zijn op dit forum, kunt u klikken op de 
 {U_STOP_WATCHING_FORUM}
 
 {EMAIL_SIG}
-

@@ -9,4 +9,3 @@ De volgende reden is gegeven voor de afkeuring:
 {REASON}
 
 {EMAIL_SIG}
-

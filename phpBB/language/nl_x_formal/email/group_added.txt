@@ -11,4 +11,3 @@ U kunt uw groepsinformatie hier bekijken:
 {U_GROUP}
 
 {EMAIL_SIG}
-

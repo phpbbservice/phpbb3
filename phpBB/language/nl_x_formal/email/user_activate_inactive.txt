@@ -6,4 +6,3 @@ Uw account op "{SITENAME}" is gedeactiveerd, dat gebeurt meestal als u wijziging
 De beheerder van dit forum moet eerst uw account activeren voordat u zich weer kan aanmelden. U zult een ander bericht ontvangen zodra dit is gebeurd.
 
 {EMAIL_SIG}
-

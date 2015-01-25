@@ -6,4 +6,3 @@ U ontvangt dit bericht omdat de melding die u heeft ingevuld over het bericht "{
 Als u verdere vragen heeft, neem dan contact op met {CLOSER_NAME} doormiddel van een privébericht.
 
 {EMAIL_SIG}
-

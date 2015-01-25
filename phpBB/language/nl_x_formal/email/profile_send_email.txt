@@ -12,4 +12,3 @@ Bericht dat verzonden is:
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 {MESSAGE}
-

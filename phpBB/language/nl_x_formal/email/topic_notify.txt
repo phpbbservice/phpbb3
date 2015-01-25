@@ -26,4 +26,3 @@ Als u niet langer meer geabonneerd wilt zijn op dit onderwerp kunt u klikken op 
 {U_STOP_WATCHING_TOPIC}
 
 {EMAIL_SIG}
-

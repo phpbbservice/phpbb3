@@ -17,4 +17,3 @@ Uw wachtwoord is veilig opgeslagen in onze database en kan niet worden achterhaa
 Bedankt voor uw registratie.
 
 {EMAIL_SIG}
-

@@ -16,4 +16,3 @@ Forumadres: {U_BOARD}
 Om u forum zo veilig mogelijk te houden raden wij u aan om altijd de laatst recente versie te draaien, volg ons op Twitter; https://twitter.com/phpBBservicenl of via onze website; http://www.phpbbservice.nl zodat u op de hoogte blijft van de actuele phpBB-softwareupdates en belangrijke ontwikkelingen.
 
 {EMAIL_SIG}
-

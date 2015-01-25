@@ -20,4 +20,3 @@ Mocht u toch uw wachtwoord vergeten zijn, dan kunt u een nieuw wachtwoord aanvra
 Bedankt voor uw registratie.
 
 {EMAIL_SIG}
-

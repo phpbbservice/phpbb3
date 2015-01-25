@@ -9,4 +9,3 @@ Bezoek de volgende link om u account te heractiveren:
 {U_ACTIVATE}
 
 {EMAIL_SIG}
-

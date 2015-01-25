@@ -73,11 +73,11 @@ $lang = array_merge($lang, array(
 	'OPTIONS_EXCLUDED'			=> 'Uitgesloten',
 
 	'UNTIL'						=> 'Tot',
-	'USER_BAN'					=> 'Eén of meer gebruikersnamen verbannen',
+	'USER_BAN'					=> 'Verban één of meer gebruikers via een gebruikersnaam',
 	'USER_BAN_EXCLUDE_EXPLAIN'	=> 'Schakel dit in om het ingevoerde gebruikers uit te sluiten van alle huidige verbanningen.',
 	'USER_BAN_EXPLAIN'			=> 'U kunt meerdere gebruikers in één keer verbannen door elke naam op een aparte regel in te voeren. Gebruik de <span style="text-decoration: underline;">Gebruiker zoeken</span> optie om automatisch één of meerdere gebruikers toe te voegen.',
 	'USER_NO_BANNED'			=> 'Geen verbannen gebruikersnamen',
-	'USER_UNBAN'				=> 'Verbannen of uitgesloten gebruikersnamen opheffen',
+	'USER_UNBAN'				=> 'Ontban of hef uitgesloten gebruikers via een gebruikersnaam op',
 	'USER_UNBAN_EXPLAIN'		=> 'U kunt meerdere verbannen (of uitgesloten) gebruikers verwijderen, doormiddel van één keer de juiste combinatie van de muis en het toetsenbord te gebruiken van uw computer en browser. Uitgesloten gebruikers zijn al benadrukt.',
 ));
 

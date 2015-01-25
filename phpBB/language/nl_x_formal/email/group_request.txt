@@ -9,4 +9,3 @@ Om deze aanvraag voor het groepslidmaatschap goed of af te keuren bezoekt u de v
 {U_PENDING}
 
 {EMAIL_SIG}
-

@@ -5,4 +5,3 @@ Hallo {USERNAME},
 U ontvangt dit bericht over de melding die u hebt ingevuld over het privébericht "{PM_SUBJECT}" op "{SITENAME}", een beheerder of moderator heeft uw melding verwijderd.
 
 {EMAIL_SIG}
-

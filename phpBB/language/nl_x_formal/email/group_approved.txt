@@ -9,4 +9,3 @@ Klik op de volgende link om uw groepslidmaatschap te bekijken.
 {U_GROUP}
 
 {EMAIL_SIG}
-

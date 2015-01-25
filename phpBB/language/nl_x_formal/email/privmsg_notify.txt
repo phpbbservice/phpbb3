@@ -15,4 +15,3 @@ U heeft het zo ingesteld dat u een bericht wilt ontvangen bij nieuwe privéberic
 Vergeet niet dat u het altijd zo in kan stellen dat u wel of geen berichten wilt ontvangen bij nieuwe privéberichten, dat kunt u doen door de juiste instellingen te wijzigen in uw profiel.  
 
 {EMAIL_SIG}
-
