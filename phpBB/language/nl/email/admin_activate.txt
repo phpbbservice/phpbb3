@@ -8,6 +8,7 @@ Gebruik de volgende link om het profiel van de gebruiker te bekijken:
 {U_USER_DETAILS}
 
 Gebruik de volgende link om het account te activeren:
+
 {U_ACTIVATE}
 
 

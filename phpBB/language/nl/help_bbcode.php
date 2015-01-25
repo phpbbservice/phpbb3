@@ -43,7 +43,7 @@ $help = array(
 	),
 	array(
 		0 => 'Hoe vette, cursieve en onderstreepte tekst maken',
-		1 => 'BBCode heeft tags die je in staat stellen om snel de basisopmaak van je tekst aan te passen. Dit kan op de volgende manieren: <ul><li>Om een deel van de tekst in het vet te laten weergeven plaats je die tussen <strong>[b][/b]</strong>, bijvoorbeeld: <br /><br /><strong>[b]</strong>Hallo<strong>[/b]</strong><br /><br />zal worden: <strong>Hallo</strong></li><li>Voor onderstreping gebruik je <strong>[u][/u]</strong>, bijvoorbeeld:<br /><br /><strong>[u]</strong>Goede morgen<strong>[/u]</strong><br /><br />zal worden: <span style="text-decoration: underline;">Goede morgen</span></li><li>Voor cursieve tekst gebruik je <strong>[i][/i]</strong>, bijvoorbeeld:<br /><br />Dit is <strong>[i]</strong>geweldig!<strong>[/i]</strong><br /><br />zal worden: Dit is <em>geweldig!</em></li></ul>'
+		1 => 'BBCode heeft tags die je in staat stellen om snel de basisopmaak van je tekst aan te passen. Dit kan op de volgende manieren: <ul><li>Om een deel van de tekst in het vet te laten weergeven plaats je die tussen <strong>[b][/b]</strong>, bijvoorbeeld: <br /><br /><strong>[b]</strong>Hallo<strong>[/b]</strong><br /><br />zal worden: <strong>Hallo</strong></li><li>Voor onderstreping gebruik je <strong>[u][/u]</strong>, bijvoorbeeld:<br /><br /><strong>[u]</strong>Goedemorgen<strong>[/u]</strong><br /><br />zal worden: <span style="text-decoration: underline;">Goede morgen</span></li><li>Voor cursieve tekst gebruik je <strong>[i][/i]</strong>, bijvoorbeeld:<br /><br />Dit is <strong>[i]</strong>geweldig!<strong>[/i]</strong><br /><br />zal worden: Dit is <em>geweldig!</em></li></ul>'
 	),
 	array(
 		0 => 'Hoe tekstkleur of -grootte aan te passen',
