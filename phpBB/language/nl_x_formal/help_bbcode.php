@@ -43,7 +43,7 @@ $help = array(
 	),
 	array(
 		0 => 'Hoe vette, cursieve en onderstreepte tekst maken',
-		1 => 'BBCode heeft tags die u in staat stellen om snel de basisopmaak van uw tekst aan te passen. Dit kan op de volgende manieren: <ul><li>Om een deel van de tekst in het vet te laten weergeven plaatst u die tussen <strong>[b][/b]</strong>, bijvoorbeeld: <br /><br /><strong>[b]</strong>Hallo<strong>[/b]</strong><br /><br />zal worden: <strong>Hallo</strong></li><li>Voor onderstreping gebruikt u <strong>[u][/u]</strong>, bijvoorbeeld:<br /><br /><strong>[u]</strong>Goede morgen<strong>[/u]</strong><br /><br />zal worden: <span style="text-decoration: underline;">Goede</strong>morgen</span></li><li>Voor cursieve tekst gebruikt u <strong>[i][/i]</strong>, bijvoorbeeld:<br /><br />Dit is <strong>[i]</strong>geweldig!<strong>[/i]</strong><br /><br />zal worden: Dit is <em>geweldig!</em></li></ul>'
+		1 => 'BBCode heeft tags die u in staat stellen om snel de basisopmaak van uw tekst aan te passen. Dit kan op de volgende manieren: <ul><li>Om een deel van de tekst in het vet te laten weergeven plaatst u die tussen <strong>[b][/b]</strong>, bijvoorbeeld: <br /><br /><strong>[b]</strong>Hallo<strong>[/b]</strong><br /><br />zal worden: <strong>Hallo</strong></li><li>Voor onderstreping gebruikt u <strong>[u][/u]</strong>, bijvoorbeeld:<br /><br /><strong>[u]</strong>Goede morgen<strong>[/u]</strong><br /><br />zal worden: <span style="text-decoration: underline;">Goedemorgen</span></li><li>Voor cursieve tekst gebruikt u <strong>[i][/i]</strong>, bijvoorbeeld:<br /><br />Dit is <strong>[i]</strong>geweldig!<strong>[/i]</strong><br /><br />zal worden: Dit is <em>geweldig!</em></li></ul>'
 	),
 	array(
 		0 => 'Hoe tekstkleur of -grootte aan te passen',
@@ -51,7 +51,7 @@ $help = array(
 	),
 	array(
 		0 => 'Kan ik verschillende tags samen gebruiken?',
-		1 => 'Natuurlijk kan dat, bijvoorbeeld om iemands aandacht te trekken kunt u schrijven:<br /><br /><strong>[size=200][color=red][b]</strong>KIJK NAAR MIJ!<strong>[/b][/color][/size]</strong><br /><br />en dit geeft als resultaat <span style="color: red; font-size: 200%;"><strong>KIJK NAAR MIJ!</strong></span><br /><br />Wij raden u overigens af om hele stukken tekst zo op te maken! Vergeet niet te controleren of alle tags correct gesloten zijn, en in de juiste volgorde. Bijvoorbeeld het volgende is niet juist:<br /><br /><strong>[b][u]</strong>Dit is verkeerd<strong>[/b][/u]</strong><br /><br />Maar het volgende is wel goed:<br /><br /><strong>[b][u]</strong>Dit is goed<strong>[/u][/b]</stron>.'
+		1 => 'Natuurlijk kan dat, bijvoorbeeld om iemands aandacht te trekken kunt u schrijven:<br /><br /><strong>[size=200][color=red][b]</strong>KIJK NAAR MIJ!<strong>[/b][/color][/size]</strong><br /><br />en dit geeft als resultaat <span style="color: red; font-size: 200%;"><strong>KIJK NAAR MIJ!</strong></span><br /><br />Wij raden u overigens af om hele stukken tekst zo op te maken! Vergeet niet te controleren of alle tags correct gesloten zijn, en in de juiste volgorde. Bijvoorbeeld het volgende is niet juist:<br /><br /><strong>[b][u]</strong>Dit is verkeerd<strong>[/b][/u]</strong><br /><br />Maar het volgende is wel goed:<br /><br /><strong>[b][u]</strong>Dit is goed<strong>[/u][/b]</strong>.'
 	),
 	array(
 		0 => '--',

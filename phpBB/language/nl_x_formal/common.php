@@ -420,9 +420,9 @@ $lang = array_merge($lang, array(
 	'OFFLINE'					=> 'Offline',
 	'ONLINE'					=> 'Online',
 	'ONLINE_BUDDIES'			=> 'Online vrienden',
-	'ONLINE_USERS_TOTAL'		=> 'Er zijn in totaal <strong>%d</strong> gebruikers online :: ',
-	'ONLINE_USERS_ZERO_TOTAL'	=> 'Er zijn in totaal <strong>0</strong> gebruikers online :: ',
-	'ONLINE_USER_TOTAL'			=> 'Er is in totaal <strong>1</strong> gebruiker online :: ',
+	'ONLINE_USERS_TOTAL'		=> 'Er zijn in totaal <strong>%d</strong> gebruikers online : ',
+	'ONLINE_USERS_ZERO_TOTAL'	=> 'Er zijn in totaal <strong>0</strong> gebruikers online : ',
+	'ONLINE_USER_TOTAL'			=> 'Er is in totaal <strong>%d</strong> gebruiker online : ',
 	'OPTIONS'					=> 'Opties',
 
 	'PAGE_OF'					=> 'Pagina <strong>%1$d</strong> van <strong>%2$d</strong>',
